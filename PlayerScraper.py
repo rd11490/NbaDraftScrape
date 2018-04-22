@@ -52,4 +52,4 @@ for r in rows:
     frame = frame.append(pd.Series(r), ignore_index=True)
 
 frame.columns = columns
-frame.to_csv("PlayerList.csv")
+frame.to_csv("data/PlayerList.csv")

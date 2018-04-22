@@ -58,5 +58,5 @@ for season in seasons:
 measurement_frame = pd.concat(measuments)
 drills_frame = pd.concat(drills)
 
-measurement_frame.to_csv("Player_Combine_Measurements.csv")
-drills_frame.to_csv("Player_Combine_Drills.csv")
+measurement_frame.to_csv("data/Player_Combine_Measurements.csv")
+drills_frame.to_csv("data/Player_Combine_Drills.csv")
