@@ -1,0 +1,1299 @@
+,season,school_name,conf_abbr,g,gs,mp,ts_pct,efg_pct,fg3a_per_fga_pct,fta_per_fga_pct,pprod,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,id,cbb_id
+0,1981-82,Oral Roberts,MW City,22,,702,.634,,,.769,,,,,,14.8,,acresma01,mark-acres-1
+1,1982-83,Oral Roberts,MW City,28,28,976,.588,,,.454,,,,,,15.2,,acresma01,mark-acres-1
+2,1983-84,Oral Roberts,MW City,31,31,,.579,,,.330,,,,,,13.5,,acresma01,mark-acres-1
+3,1984-85,Oral Roberts,MW City,29,29,959,.595,,,.429,,,,,,13.6,,acresma01,mark-acres-1
+4,1981-82,Boston College,Big East,26,0,379,.523,,,.592,,,,,,17.5,,adamsmi01,michael-adams-1
+5,1982-83,Boston College,Big East,32,,1075,.539,,,.388,,,,,,19.6,,adamsmi01,michael-adams-1
+6,1983-84,Boston College,Big East,30,,1026,.509,,,.401,,,,,,15.5,,adamsmi01,michael-adams-1
+7,1984-85,Boston College,Big East,31,,1044,.506,,,.288,,,,,,17.0,,adamsmi01,michael-adams-1
+8,1982-83,Syracuse,Big East,31,1,572,.542,,,.299,,,,,,14.2,,addisra01,rafael-addison-1
+9,1983-84,Syracuse,Big East,32,32,1104,.600,,,.312,,,,,,13.9,,addisra01,rafael-addison-1
+10,1984-85,Syracuse,Big East,31,31,1110,.551,,,.308,,,,,,10.5,,addisra01,rafael-addison-1
+11,1985-86,Syracuse,Big East,32,32,1012,.562,,,.226,,,,,,14.1,,addisra01,rafael-addison-1
+12,1978-79,DePaul,Ind,30,,1206,.562,,,.367,,,,,,,,aguirma01,mark-aguirre-1
+13,1979-80,DePaul,Ind,28,,1049,.589,,,.469,,,,,,13.4,,aguirma01,mark-aguirre-1
+14,1980-81,DePaul,Ind,29,,1069,.610,,,.285,,,,,,15.1,,aguirma01,mark-aguirre-1
+15,1977-78,BYU,WAC,30,,1140,.571,,,.357,,,,,,15.8,,aingeda01,danny-ainge-1
+16,1978-79,BYU,WAC,27,,922,.580,,,.298,,,,,,18.9,,aingeda01,danny-ainge-1
+17,1979-80,BYU,WAC,29,,984,.568,,,.288,,,,,,12.8,,aingeda01,danny-ainge-1
+18,1980-81,BYU,WAC,32,,1212,.566,,,.334,,,,,,13.0,,aingeda01,danny-ainge-1
+19,1982-83,Duke,ACC,28,28,785,.562,.494,.008,.487,,13.4,6.7,,1.8,17.8,,alarima01,mark-alarie-1
+20,1983-84,Duke,ACC,34,34,1129,.614,,,.440,,13.6,8.2,,2.3,11.2,,alarima01,mark-alarie-1
+21,1984-85,Duke,ACC,31,31,935,.615,,,.287,,10.5,9.8,,1.3,13.0,,alarima01,mark-alarie-1
+22,1985-86,Duke,ACC,40,40,1193,.588,,,.402,,12.6,3.9,,1.6,11.7,25.2,alarima01,mark-alarie-1
+23,1977-78,Kentucky,SEC,27,0,216,.603,,,.554,,,,,,23.3,,aleksch01,chuck-aleksinas-1
+24,1978-79,Kentucky,SEC,13,,366,.509,,,.360,,,,,,15.6,,aleksch01,chuck-aleksinas-1
+25,1980-81,UConn,Big East,29,29,889,.666,,,.492,,,,,,21.4,,aleksch01,chuck-aleksinas-1
+26,1981-82,UConn,Big East,27,25,760,.574,,,.608,,,,,,17.2,,aleksch01,chuck-aleksinas-1
+27,1978-79,Kentucky,SEC,29,,807,.572,,,.722,,,,,,15.5,,anderdw01,dwight-anderson-1
+28,1979-80,Kentucky,SEC,11,9,282,.510,,,.307,,,,,,17.8,,anderdw01,dwight-anderson-1
+29,1980-81,USC,Pac-10,12,,418,.511,,,.344,,,,,,,,anderdw01,dwight-anderson-1
+30,1981-82,USC,Pac-10,27,,945,.533,,,.414,,,,,,,,anderdw01,dwight-anderson-1
+31,1978-79,Bradley,MVC,26,,994,.490,,,.225,,,,,,,,anderjj01,jj-anderson-1
+32,1979-80,Bradley,MVC,33,,1264,.483,,,.196,,,,,,,,anderjj01,jj-anderson-1
+33,1980-81,Bradley,MVC,27,,,.503,,,.208,,,,,,,,anderjj01,jj-anderson-1
+34,1981-82,Bradley,MVC,36,,,.523,,,.441,,,,,,,,anderjj01,jj-anderson-1
+35,1978-79,UCSB,PCAA,20,4,208,.469,,,.190,,,,,,14.9,,anderri01,richard-anderson-1
+36,1979-80,UCSB,PCAA,27,,906,.482,,,.244,,,,,,15.2,,anderri01,richard-anderson-1
+37,1980-81,UCSB,PCAA,27,,770,.488,,,.267,,,,,,17.2,,anderri01,richard-anderson-1
+38,1981-82,UCSB,PCAA,26,,926,.510,,,.345,,,,,,17.7,,anderri01,richard-anderson-1
+39,1982-83,Fresno State,PCAA,35,,1303,.588,.549,.002,.300,,11.5,13.7,,1.5,13.5,,anderro01,ron-anderson-1
+40,1983-84,Fresno State,PCAA,33,,1197,.596,,,.238,,,,,,12.1,,anderro01,ron-anderson-1
+41,1979-80,Rice,SWC,26,,775,.476,,,.444,,,,,,19.4,,austike01,ken-austin-1
+42,1980-81,Rice,SWC,27,,832,.475,,,.435,,,,,,21.3,,austike01,ken-austin-1
+43,1981-82,Rice,SWC,30,,856,.542,,,.306,,,,,,22.1,,austike01,ken-austin-1
+44,1982-83,Rice,SWC,8,,270,.600,,,.360,,,,,,18.1,,austike01,ken-austin-1
+45,1979-80,Boston College,Big East,29,,,.528,,,.426,,,,,,20.4,,baglejo01,john-bagley-1
+46,1980-81,Boston College,Big East,30,29,965,.572,,,.586,,,,,,20.6,,baglejo01,john-bagley-1
+47,1981-82,Boston College,Big East,32,31,1065,.554,,,.394,,,,,,17.6,,baglejo01,john-bagley-1
+48,1979-80,North Carolina State,ACC,28,,476,.492,,,.545,,,,,,13.6,,baileth01,thurl-bailey-1
+49,1980-81,North Carolina State,ACC,27,,,.546,,,.191,,,,,,,,baileth01,thurl-bailey-1
+50,1981-82,North Carolina State,ACC,32,,1192,.595,,,.378,,,,,,,,baileth01,thurl-bailey-1
+51,1982-83,North Carolina State,ACC,36,,1310,.528,.511,.030,.255,,,,,,10.3,,baileth01,thurl-bailey-1
+52,1977-78,Duke,ACC,34,,1135,.558,,,.324,,,,,,20.5,,banksge01,gene-banks-1
+53,1978-79,Duke,ACC,30,,,.520,,,.357,,,,,,,,banksge01,gene-banks-1
+54,1979-80,Duke,ACC,33,,1165,.581,,,.453,,,,,,18.6,,banksge01,gene-banks-1
+55,1980-81,Duke,ACC,27,,933,.603,,,.383,,13.1,11.4,,0.7,16.0,,banksge01,gene-banks-1
+56,1981-82,Auburn,SEC,28,23,746,.608,,,.442,,,,,,13.3,,barklch01,charles-barkley-1
+57,1982-83,Auburn,SEC,28,28,782,.648,,,.520,,,,,,20.4,,barklch01,charles-barkley-1
+58,1983-84,Auburn,SEC,28,18,794,.655,,,.571,,,,,,16.8,,barklch01,charles-barkley-1
+59,1981-82,Rutgers,EAA,29,,373,.436,,,.418,,,,,,,,battljo01,john-battle-1
+60,1982-83,Rutgers,A-10,31,,443,.530,.522,.129,.367,,,,,,,,battljo01,john-battle-1
+61,1983-84,Rutgers,A-10,25,25,814,.533,,,.364,,,,,,,,battljo01,john-battle-1
+62,1984-85,Rutgers,A-10,29,29,1017,.533,.510,.123,.377,,,,,,,,battljo01,john-battle-1
+63,1983-84,Memphis,Metro,26,,684,.576,,,.299,,,,,,12.3,,bedfowi01,william-bedford-1
+64,1984-85,Memphis,Metro,35,,1099,.564,,,.306,,,,,,15.1,,bedfowi01,william-bedford-1
+65,1985-86,Memphis,Metro,32,,1038,.596,,,.401,,,,,,9.9,,bedfowi01,william-bedford-1
+66,1982-83,Creighton,MVC,27,25,871,.576,,,.397,,,,,,18.5,,benjabe01,benoit-benjamin-1
+67,1983-84,Creighton,MVC,30,30,1112,.582,,,.411,,,,,,14.7,,benjabe01,benoit-benjamin-1
+68,1984-85,Creighton,MVC,32,32,1193,.621,,,.526,,,,,,13.7,,benjabe01,benoit-benjamin-1
+69,1984-85,St. John's (NY),Big East,35,,1200,.593,,,.452,,,,,,14.6,,berrywa01,walter-berry-1
+70,1985-86,St. John's (NY),Big East,36,36,1318,.623,,,.453,,,,,,14.2,,berrywa01,walter-berry-1
+71,1980-81,North Carolina A&T,MEAC,29,,,.510,,,.331,,,,,,,,biniojo01,joe-binion-1
+72,1981-82,North Carolina A&T,MEAC,28,,,.548,,,.417,,,,,,12.1,,biniojo01,joe-binion-1
+73,1982-83,North Carolina A&T,MEAC,30,,,.520,,,.418,,,,,,,,biniojo01,joe-binion-1
+74,1983-84,North Carolina A&T,MEAC,29,,,.561,,,.511,,,,,,,,biniojo01,joe-binion-1
+75,1981-82,Indiana,Big Ten,24,10,408,.569,,,.565,,,,,,24.9,,blabuw01,uwe-blab-1
+76,1982-83,Indiana,Big Ten,30,19,660,.532,,,.441,,,,,,15.0,,blabuw01,uwe-blab-1
+77,1983-84,Indiana,Big Ten,31,27,961,.549,,,.366,,,,,,13.5,,blabuw01,uwe-blab-1
+78,1984-85,Indiana,Big Ten,33,31,990,.595,,,.392,,,,,,13.8,,blabuw01,uwe-blab-1
+79,1977-78,Kansas State,Big 8,29,,,.503,,,.346,,,,,,,,blackro01,rolando-blackman-1
+80,1978-79,Kansas State,Big 8,28,28,,.542,,,.288,,,,,,,,blackro01,rolando-blackman-1
+81,1979-80,Kansas State,Big 8,31,31,1103,.566,,,.346,,,,,,,,blackro01,rolando-blackman-1
+82,1980-81,Kansas State,Big 8,33,33,1239,.568,,,.303,,,,,,,,blackro01,rolando-blackman-1
+83,1981-82,Wisconsin,Big Ten,27,24,869,.482,,,.312,,,,,,13.9,,blackco01,cory-blackwell-1
+84,1982-83,Wisconsin,Big Ten,28,28,995,.492,,,.243,,,,,,12.2,,blackco01,cory-blackwell-1
+85,1983-84,Wisconsin,Big Ten,28,27,1045,.504,,,.412,,,,,,14.5,,blackco01,cory-blackwell-1
+86,1977-78,Oregon State,Pac-8,25,,394,.552,,,.378,,,,,,19.0,,blumera01,ray-blume-1
+87,1978-79,Oregon State,Pac-10,28,,961,.528,,,.225,,,,,,17.5,,blumera01,ray-blume-1
+88,1979-80,Oregon State,Pac-10,30,,1111,.601,,,.313,,,,,,,,blumera01,ray-blume-1
+89,1980-81,Oregon State,Pac-10,28,,903,.595,,,.280,,,,,,19.3,,blumera01,ray-blume-1
+90,1984-85,Oklahoma,Big 8,37,37,1282,.553,,,.304,,,,,,15.8,,bowiean01,anthony-bowie-1
+91,1985-86,Oklahoma,Big 8,35,33,1170,.532,,,.194,,,,,,14.9,,bowiean01,anthony-bowie-1
+92,1979-80,Kentucky,SEC,34,33,886,.580,,,.463,,,,,,17.4,,bowiesa01,sam-bowie-1
+93,1980-81,Kentucky,SEC,28,28,895,.562,,,.461,,16.9,9.0,,6.8,10.5,,bowiesa01,sam-bowie-1
+94,1983-84,Kentucky,SEC,34,34,980,.562,,,.488,,19.9,12.8,,4.8,23.7,,bowiesa01,sam-bowie-1
+95,1977-78,Villanova,EAA,32,,1002,.590,,,.354,,,,,,,,bradlal02,alex-bradley-1
+96,1978-79,Villanova,EAA,28,,851,.545,,,.408,,,,,,,,bradlal02,alex-bradley-1
+97,1979-80,Villanova,EAA,31,,968,.549,,,.405,,,,,,,,bradlal02,alex-bradley-1
+98,1980-81,Villanova,Big East,20,,641,.560,,,.527,,,,,,,,bradlal02,alex-bradley-1
+99,1977-78,Wyoming,WAC,23,,541,.518,,,.384,,,,,,,,bradlch01,charles-bradley-1
+100,1978-79,Wyoming,WAC,25,,841,.570,,,.677,,,,,,,,bradlch01,charles-bradley-1
+101,1979-80,Wyoming,WAC,24,,812,.577,,,.741,,,,,,,,bradlch01,charles-bradley-1
+102,1980-81,Wyoming,WAC,30,,1078,.569,,,.494,,,,,,,,bradlch01,charles-bradley-1
+103,1981-82,Maryland,ACC,29,29,976,.530,,,.431,,,,,,17.1,,brancad01,adrian-branch-1
+104,1982-83,Maryland,ACC,29,29,1043,.514,,,.393,,,,,,16.2,,brancad01,adrian-branch-1
+105,1983-84,Maryland,ACC,28,25,862,.532,,,.426,,,,,,16.4,,brancad01,adrian-branch-1
+106,1984-85,Maryland,ACC,37,37,1298,.549,,,.325,,,,,,13.9,,brancad01,adrian-branch-1
+107,1979-80,Minnesota,Big Ten,31,,496,.579,,,.430,,,,,,,,breuera01,randy-breuer-1
+108,1980-81,Minnesota,Big Ten,30,,1050,.601,,,.450,,,,,,13.8,,breuera01,randy-breuer-1
+109,1981-82,Minnesota,Big Ten,29,,1015,.602,,,.517,,,,,,11.8,,breuera01,randy-breuer-1
+110,1982-83,Minnesota,Big Ten,29,,1102,.628,,,.484,,,,,,11.4,,breuera01,randy-breuer-1
+111,1977-78,Penn State,EAA,25,,266,.487,,,.432,,,,,,17.0,,brickfr01,frank-brickowski-1
+112,1978-79,Penn State,EAA,24,6,349,.558,,,.485,,23.1,15.3,,3.8,28.3,,brickfr01,frank-brickowski-1
+113,1979-80,Penn State,Ind,28,28,692,.578,,,.463,,,,,,19.9,,brickfr01,frank-brickowski-1
+114,1980-81,Penn State,Ind,24,20,615,.627,,,.289,,,,,,20.8,,brickfr01,frank-brickowski-1
+115,1981-82,South Carolina,Ind,29,12,412,.460,,,.363,,,,,,18.0,,brittmi01,mike-brittain-1
+116,1982-83,South Carolina,Ind,29,9,334,.591,,,.600,,,,,,18.6,,brittmi01,mike-brittain-1
+117,1983-84,South Carolina,Metro,27,23,717,.487,,,.263,,,,,,18.2,,brittmi01,mike-brittain-1
+118,1984-85,South Carolina,Metro,24,20,633,.471,,,.436,,,,,,17.9,,brittmi01,mike-brittain-1
+119,1981-82,George Washington,EAA,27,,926,.505,,,.403,,,,,,,,brownmi01,mike-brown-1
+120,1982-83,George Washington,A-10,29,29,1058,.551,.520,.000,.463,,,,,,,,brownmi01,mike-brown-1
+121,1983-84,George Washington,A-10,29,28,1049,.595,,,.721,,,,,,17.9,,brownmi01,mike-brown-1
+122,1984-85,George Washington,A-10,26,25,937,.525,.480,.000,.595,,,,,,17.4,,brownmi01,mike-brown-1
+123,1978-79,Arkansas,SWC,23,,354,.599,,,.212,,,,,,24.8,,brownto01,tony-brown-1
+124,1979-80,Arkansas,SWC,28,,299,.551,,,.338,,,,,,18.6,,brownto01,tony-brown-1
+125,1980-81,Arkansas,SWC,32,,654,.575,,,.407,,,,,,18.2,,brownto01,tony-brown-1
+126,1981-82,Arkansas,SWC,27,,826,.621,,,.368,,,,,,16.8,,brownto01,tony-brown-1
+127,1978-79,San Francisco,WCAC,29,,502,.448,,,.208,,,,,,,,bryanwa01,wallace-bryant-1
+128,1979-80,San Francisco,WCAC,29,,957,.508,,,.318,,,,,,,,bryanwa01,wallace-bryant-1
+129,1980-81,San Francisco,WCAC,29,,991,.536,,,.321,,,,,,8.7,,bryanwa01,wallace-bryant-1
+130,1981-82,San Francisco,WCAC,31,,1050,.513,,,.335,,,,,,11.5,,bryanwa01,wallace-bryant-1
+131,1977-78,Louisville,Metro,27,,234,.388,,,.523,,,,,,16.5,,burkmro01,roger-burkman-1
+132,1978-79,Louisville,Metro,27,,335,.544,,,.700,,,,,,32.8,,burkmro01,roger-burkman-1
+133,1979-80,Louisville,Metro,36,,636,.516,,,1.011,,,,,,,,burkmro01,roger-burkman-1
+134,1980-81,Louisville,Metro,30,,522,.569,,,.833,,,,,,27.2,,burkmro01,roger-burkman-1
+135,1979-80,Saint Louis,Metro,27,,941,.557,,,.539,,,,,,,,burnsda01,david-burns-1
+136,1980-81,Saint Louis,Metro,27,,969,.611,,,.439,,,,,,,,burnsda01,david-burns-1
+137,1980-81,Iona,ECACM,28,18,800,.516,,,.408,,,,,,23.8,,burttst01,steve-burtt-1
+138,1981-82,Iona,MAAC,31,31,1148,.556,,,.506,,,,,,13.3,,burttst01,steve-burtt-1
+139,1982-83,Iona,MAAC,31,,1139,.576,,,.314,,,,,,13.1,,burttst01,steve-burtt-1
+140,1983-84,Iona,MAAC,31,30,1065,.568,,,.312,,,,,,14.4,,burttst01,steve-burtt-1
+141,1980-81,San Diego State,WAC,27,27,1031,.598,,,.417,,,,,,19.6,,cagemi01,michael-cage-1
+142,1981-82,San Diego State,WAC,29,29,1076,.523,,,.433,,,,,,14.4,,cagemi01,michael-cage-1
+143,1982-83,San Diego State,WAC,28,28,1070,.622,,,.660,,,,,,13.7,,cagemi01,michael-cage-1
+144,1983-84,San Diego State,WAC,28,28,1085,.608,,,.564,,,,,,8.4,,cagemi01,michael-cage-1
+145,1980-81,Ohio State,Big Ten,14,0,55,.428,,,.250,,,,,,20.7,,campbto01,tony-campbell-1
+146,1981-82,Ohio State,Big Ten,31,30,986,.481,,,.334,,,,,,18.1,,campbto01,tony-campbell-1
+147,1982-83,Ohio State,Big Ten,30,30,1122,.548,.503,.004,.319,,,,,,16.1,,campbto01,tony-campbell-1
+148,1983-84,Ohio State,Big Ten,29,29,1095,.571,,,.436,,,,,,15.8,,campbto01,tony-campbell-1
+149,1979-80,Maine,ECACN,28,,,.612,,,.411,,,,,,,,carliri01,rick-carlisle-1
+150,1980-81,Maine,ECACN,28,28,,.594,,,.391,,,,,,,,carliri01,rick-carlisle-1
+151,1982-83,Virginia,ACC,34,33,965,.568,,,.375,,,,,,12.6,,carliri01,rick-carlisle-1
+152,1983-84,Virginia,ACC,33,33,959,.545,,,.332,,,,,,13.0,,carliri01,rick-carlisle-1
+153,1979-80,Wichita State,MVC,29,,818,.531,,,.363,,,,,,14.7,,carran01,antoine-carr-1
+154,1980-81,Wichita State,MVC,33,33,1030,.619,,,.367,,,,,,14.4,,carran01,antoine-carr-1
+155,1981-82,Wichita State,MVC,28,25,785,.606,,,.364,,,,,,13.5,,carran01,antoine-carr-1
+156,1982-83,Wichita State,MVC,22,21,727,.612,.580,.015,.401,,,,,,10.4,,carran01,antoine-carr-1
+157,1979-80,LSU,SEC,32,,907,.521,,,.251,,,,,,,,carteho01,howard-carter-1
+158,1980-81,LSU,SEC,36,36,1209,.559,,,.304,,,,,,,,carteho01,howard-carter-1
+159,1981-82,LSU,SEC,28,28,1144,.502,,,.226,,,,,,,,carteho01,howard-carter-1
+160,1982-83,LSU,SEC,32,,1104,.536,,,.242,,,,,,,,carteho01,howard-carter-1
+161,1982-83,South Alabama,Sun Belt,28,27,911,.588,.558,.000,.442,,,,,,14.9,,catlete01,terry-catledge-1
+162,1983-84,South Alabama,Sun Belt,30,27,1032,.626,,,.587,,,,,,17.6,,catlete01,terry-catledge-1
+163,1984-85,South Alabama,Sun Belt,28,0,1038,.548,,,.466,,,,,,0.6,,catlete01,terry-catledge-1
+164,1977-78,Auburn,SEC,25,,,.493,,,.169,,,,,,,,cattabo01,bobby-cattage-1
+165,1978-79,Auburn,SEC,29,,1015,.527,,,.340,,,,,,,,cattabo01,bobby-cattage-1
+166,1979-80,Auburn,SEC,23,,348,.500,,,.164,,,,,,,,cattabo01,bobby-cattage-1
+167,1980-81,Auburn,SEC,27,3,424,.428,,,.333,,,,,,14.3,,cattabo01,bobby-cattage-1
+168,1977-78,Texas Southern,SWAC,18,,,.474,,,.231,,,,,,,,cavenro01,ron-cavenall-1
+169,1978-79,Texas Southern,SWAC,27,,,.498,,,.209,,,,,,,,cavenro01,ron-cavenall-1
+170,1979-80,Texas Southern,SWAC,24,,,.519,,,.556,,,,,,,,cavenro01,ron-cavenall-1
+171,1980-81,Texas Southern,SWAC,26,,,.491,,,.224,,,,,,,,cavenro01,ron-cavenall-1
+172,1977-78,Utah,WAC,28,1,355,.525,,,.460,,,,,,19.5,,chambto01,tom-chambers-1
+173,1978-79,Utah,WAC,30,30,853,.547,,,.335,,,,,,12.9,,chambto01,tom-chambers-1
+174,1979-80,Utah,WAC,28,26,792,.573,,,.359,,,,,,13.9,,chambto01,tom-chambers-1
+175,1980-81,Utah,WAC,30,30,959,.625,,,.417,,,,,,10.6,,chambto01,tom-chambers-1
+176,1981-82,North Carolina State,ACC,24,,144,.551,,,1.000,,,,,,17.5,,charllo01,lorenzo-charles-1
+177,1982-83,North Carolina State,ACC,36,,928,.576,,,.542,,,,,,16.0,,charllo01,lorenzo-charles-1
+178,1983-84,North Carolina State,ACC,33,33,1156,.585,,,.501,,,,,,11.5,,charllo01,lorenzo-charles-1
+179,1984-85,North Carolina State,ACC,33,33,1104,.602,,,.433,,,,,,8.7,,charllo01,lorenzo-charles-1
+180,1979-80,Ole Miss,SEC,29,,662,.576,,,.234,,7.4,6.4,,,,,clarkca01,carlos-clark-1
+181,1980-81,Ole Miss,SEC,28,,967,.574,,,.384,,,,,,14.7,,clarkca01,carlos-clark-1
+182,1981-82,Ole Miss,SEC,30,,1192,.660,,,.402,,,,,,11.9,,clarkca01,carlos-clark-1
+183,1982-83,Ole Miss,SEC,31,31,1027,.550,,,.430,,,,,,13.9,,clarkca01,carlos-clark-1
+184,1980-81,Oregon,Pac-10,27,27,862,.507,,,.246,,,,,,22.3,,cofiefr01,fred-cofield-1
+185,1981-82,Oregon,Pac-10,22,21,674,.495,,,.248,,,,,,22.7,,cofiefr01,fred-cofield-1
+186,1983-84,Eastern Michigan,MAC,29,,1135,.492,,,.156,,,,,,,,cofiefr01,fred-cofield-1
+187,1984-85,Eastern Michigan,MAC,28,,1075,.523,,,.259,,,,,,,,cofiefr01,fred-cofield-1
+188,1979-80,Minnesota,Big Ten,17,,38,.371,,,.211,,,,,,,,colembe01,ben-coleman-1
+189,1980-81,Minnesota,Big Ten,23,,299,.467,,,.184,,,,,,16.2,,colembe01,ben-coleman-1
+190,1982-83,Maryland,ACC,30,30,995,.590,,,.433,,,,,,13.5,,colembe01,ben-coleman-1
+191,1983-84,Maryland,ACC,32,32,1094,.634,,,.451,,,,,,14.7,,colembe01,ben-coleman-1
+192,1980-81,New Mexico State,MVC,22,,233,.481,,,.872,,,,,,24.0,,coltest01,steve-colter-1
+193,1981-82,New Mexico State,MVC,28,21,822,.540,,,.448,,,,,,22.2,,coltest01,steve-colter-1
+194,1982-83,New Mexico State,MVC,29,29,1079,.566,.508,.018,.544,,,,,,14.3,,coltest01,steve-colter-1
+195,1983-84,New Mexico State,PCAA,28,,1120,.542,,,.315,,,,,,16.2,,coltest01,steve-colter-1
+196,1979-80,Oklahoma State,Big 8,14,8,284,.580,,,.534,,,,,,9.8,,combsle01,leroy-combs-1
+197,1980-81,Oklahoma State,Big 8,27,25,634,.591,,,.498,,,,,,13.4,,combsle01,leroy-combs-1
+198,1981-82,Oklahoma State,Big 8,27,24,758,.543,,,.450,,,,,,16.6,,combsle01,leroy-combs-1
+199,1982-83,Oklahoma State,Big 8,31,31,1142,.603,,,.513,,,,,,15.3,,combsle01,leroy-combs-1
+200,1980-81,Oregon State,Pac-10,28,,790,.535,,,.645,,,,,,25.5,,connele01,lester-conner-1
+201,1981-82,Oregon State,Pac-10,30,,1106,.582,,,.671,,,,,,17.2,,connele01,lester-conner-1
+202,1981-82,Saint Mary's (CA),WCAC,25,4,463,.508,,,.478,,,,,,19.2,,cookeda01,david-cooke-1
+203,1982-83,Saint Mary's (CA),WCAC,26,26,663,.491,,,.527,,,,,,17.1,,cookeda01,david-cooke-1
+204,1983-84,Saint Mary's (CA),WCAC,28,24,756,.500,,,.435,,,,,,16.8,,cookeda01,david-cooke-1
+205,1984-85,Saint Mary's (CA),WCAC,27,27,848,.583,,,.706,,,,,,15.5,,cookeda01,david-cooke-1
+206,1976-77,Howard,MEAC,32,,771,.508,,,.277,,,,,,,,coopejo01,joe-cooper-1
+207,1977-78,Howard,MEAC,33,,788,.507,,,.267,,,,,,,,coopejo01,joe-cooper-1
+208,1978-79,Tulsa,MVC,18,12,322,.491,,,.382,,,,,,15.3,,coopejo01,joe-cooper-1
+209,1980-81,Colorado,Big 8,28,,660,.589,,,.301,,,,,,20.4,,coopejo01,joe-cooper-1
+210,1981-82,DePaul,Ind,28,0,602,.507,,,.757,,,,,,30.7,,corbity01,tyrone-corbin-1
+211,1982-83,DePaul,Ind,33,28,1060,.537,,,.502,,,,,,18.5,,corbity01,tyrone-corbin-1
+212,1983-84,DePaul,Ind,30,,1070,.566,,,.396,,,,,,16.1,,corbity01,tyrone-corbin-1
+213,1984-85,DePaul,Ind,29,,1004,.573,,,.288,,,,,,15.4,,corbity01,tyrone-corbin-1
+214,1978-79,Boston College,Ind,12,,,.553,,,.750,,,,,,,,creviro01,ron-crevier-1
+215,1979-80,Boston College,Big East,13,,,.558,,,.722,,,,,,24.9,,creviro01,ron-crevier-1
+216,1981-82,Boston College,Big East,17,1,99,.612,,,.688,,,,,,19.1,,creviro01,ron-crevier-1
+217,1982-83,Boston College,Big East,14,,36,.403,,,1.667,,,,,,33.2,,creviro01,ron-crevier-1
+218,1980-81,Maine,ECACN,24,0,,.495,,,1.147,,,,,,,,crossje01,jeff-cross-1
+219,1981-82,Maine,ECACN,23,21,,.533,,,.403,,,,,,15.2,,crossje01,jeff-cross-1
+220,1982-83,Maine,ECACN,26,25,,.573,,,.552,,,,,,9.8,,crossje01,jeff-cross-1
+221,1983-84,Maine,ECACN,27,,,.569,,,.764,,,,,,12.5,,crossje01,jeff-cross-1
+222,1980-81,Purdue,Big Ten,32,32,1158,.599,,,.555,,,,,,,,crossru01,russell-cross-1
+223,1981-82,Purdue,Big Ten,32,31,1141,.596,,,.869,,,,,,,,crossru01,russell-cross-1
+224,1982-83,Purdue,Big Ten,29,27,1014,.600,,,.671,,,,,,,,crossru01,russell-cross-1
+225,1979-80,DePaul,Ind,28,,861,.561,,,.353,,,,,,10.8,,cummite01,terry-cummings-1
+226,1980-81,DePaul,Ind,29,,994,.538,,,.330,,,,,,14.6,,cummite01,terry-cummings-1
+227,1981-82,DePaul,Ind,28,28,1031,.605,,,.419,,,,,,14.7,,cummite01,terry-cummings-1
+228,1982-83,Virginia Tech,Metro,32,32,1024,.510,,,.192,,,,,,18.2,,curryde01,dell-curry-1
+229,1983-84,Virginia Tech,Metro,35,,1166,.547,,,.207,,,,,,15.5,,curryde01,dell-curry-1
+230,1984-85,Virginia Tech,Metro,29,,968,.511,.486,.015,.212,,,,,,14.2,,curryde01,dell-curry-1
+231,1985-86,Virginia Tech,Metro,30,,1117,.560,,,.246,,,,,,12.1,,curryde01,dell-curry-1
+232,1979-80,San Francisco,WCAC,29,,899,.553,,,.459,,,,,,,,dailequ01,quintin-dailey-1
+233,1980-81,San Francisco,WCAC,31,,1131,.613,,,.441,,,,,,13.3,,dailequ01,quintin-dailey-1
+234,1981-82,San Francisco,WCAC,30,,1138,.595,,,.443,,,,,,10.7,,dailequ01,quintin-dailey-1
+235,1982-83,UNC,ACC,35,,815,.586,.558,.005,.513,,,,,,17.5,,daughbr01,brad-daugherty-1
+236,1983-84,UNC,ACC,30,,821,.627,,,.414,,,,,,18.2,,daughbr01,brad-daugherty-1
+237,1984-85,UNC,ACC,36,,1250,.656,,,.520,,,,,,17.8,,daughbr01,brad-daugherty-1
+238,1985-86,UNC,ACC,34,34,1087,.660,,,.397,,,,,,13.2,,daughbr01,brad-daugherty-1
+239,1976-77,Vanderbilt,SEC,26,,825,.483,,,.255,,,,,,,,davisch02,charles-davis-1
+240,1977-78,Vanderbilt,SEC,25,,889,.531,,,.246,,,,,,,,davisch02,charles-davis-1
+241,1978-79,Vanderbilt,SEC,27,,964,.607,,,.369,,,,,,12.8,,davisch02,charles-davis-1
+242,1979-80,Vanderbilt,SEC,1,,15,.500,,,.000,,,,,,25.0,,davisch02,charles-davis-1
+243,1980-81,Vanderbilt,SEC,26,,676,.589,,,.398,,,,,,11.1,,davisch02,charles-davis-1
+244,1981-82,Old Dominion,ECACS,22,1,172,.485,,,.145,,,,,,22.4,,davisma01,mark-davis-1
+245,1982-83,Old Dominion,Sun Belt,26,0,337,.490,,,.147,,,,,,18.6,,davisma01,mark-davis-1
+246,1983-84,Old Dominion,Sun Belt,31,31,1032,.560,,,.312,,,,,,13.8,,davisma01,mark-davis-1
+247,1984-85,Old Dominion,Sun Belt,31,,1024,.536,,,.342,,,,,,13.7,,davisma01,mark-davis-1
+248,1982-83,Duke,ACC,28,28,1002,.544,.523,.130,.258,,6.7,25.3,,0.7,18.1,,dawkijo01,johnny-dawkins-1
+249,1983-84,Duke,ACC,34,34,1306,.529,,,.293,,6.6,20.7,,0.2,15.5,,dawkijo01,johnny-dawkins-1
+250,1984-85,Duke,ACC,31,31,1117,.545,,,.365,,7.9,24.8,,0.3,14.4,,dawkijo01,johnny-dawkins-1
+251,1985-86,Duke,ACC,40,40,1324,.587,,,.300,,6.5,18.4,,0.3,13.4,27.4,dawkijo01,johnny-dawkins-1
+252,1979-80,UCLA,Pac-10,32,,497,.579,,,.738,,,,,,29.8,,dayeda01,darren-daye-1
+253,1980-81,UCLA,Pac-10,27,16,717,.604,,,.413,,,,,,15.1,,dayeda01,darren-daye-1
+254,1981-82,UCLA,Pac-10,26,1,606,.574,,,.607,,,,,,16.3,,dayeda01,darren-daye-1
+255,1982-83,UCLA,Pac-10,29,29,979,.562,,,.357,,,,,,13.8,,dayeda01,darren-daye-1
+256,1977-78,Duke,ACC,34,,988,.570,,,.299,,,,,,22.5,,dennake01,kenny-dennard-1
+257,1978-79,Duke,ACC,29,,,.492,,,.274,,,,,,,,dennake01,kenny-dennard-1
+258,1979-80,Duke,ACC,24,,721,.559,,,.355,,,,,,19.6,,dennake01,kenny-dennard-1
+259,1980-81,Duke,ACC,30,,993,.486,,,.269,,13.7,12.0,,0.7,17.0,,dennake01,kenny-dennard-1
+260,1976-77,Florida State,Metro,25,,341,.525,,,.555,,,,,,,,dillami01,mickey-dillard-1
+261,1977-78,Florida State,Metro,29,,661,.588,,,.422,,,,,,,,dillami01,mickey-dillard-1
+262,1978-79,Florida State,Metro,2,,66,.595,,,.615,,,,,,,,dillami01,mickey-dillard-1
+263,1979-80,Florida State,Metro,31,,1090,.576,,,.430,,,,,,,,dillami01,mickey-dillard-1
+264,1980-81,Florida State,Metro,28,,985,.557,,,.511,,,,,,,,dillami01,mickey-dillard-1
+265,1982-83,Illinois,Big Ten,32,27,1016,.503,.461,.016,.346,,,,,,22.5,,douglbr01,bruce-douglas-1
+266,1983-84,Illinois,Big Ten,31,30,1113,.513,,,.323,,,,,,17.6,,douglbr01,bruce-douglas-1
+267,1984-85,Illinois,Big Ten,35,31,1174,.416,,,.186,,,,,,24.3,,douglbr01,bruce-douglas-1
+268,1985-86,Illinois,Big Ten,32,29,1070,.512,,,.242,,,,,,16.6,,douglbr01,bruce-douglas-1
+269,1981-82,Wichita State,MVC,29,10,534,.599,,,.616,,,,,,22.9,,dreilgr01,greg-dreiling-1
+270,1982-83,Kansas,Big 8,,,,,,,,,,,,,,,dreilgr01,greg-dreiling-1
+271,1983-84,Kansas,Big 8,32,30,742,.571,,,.408,,,,,,18.1,,dreilgr01,greg-dreiling-1
+272,1984-85,Kansas,Big 8,34,34,987,.611,,,.463,,,,,,17.8,,dreilgr01,greg-dreiling-1
+273,1985-86,Kansas,Big 8,39,39,1031,.625,,,.427,,,,,,16.1,,dreilgr01,greg-dreiling-1
+274,1980-81,Houston,SWC,30,30,992,.518,,,.281,,,,,,14.2,,drexlcl01,clyde-drexler-1
+275,1981-82,Houston,SWC,32,31,1077,.579,,,.331,,,,,,18.3,,drexlcl01,clyde-drexler-1
+276,1982-83,Houston,SWC,34,,1186,.559,,,.216,,,,,,15.8,,drexlcl01,clyde-drexler-1
+277,1982-83,Eastern Illinois,Mid-Cont,30,29,669,.560,,,.448,,,,,,21.4,,duckwke01,kevin-duckworth-1
+278,1983-84,Eastern Illinois,Mid-Cont,28,25,642,.617,,,.403,,,,,,15.1,,duckwke01,kevin-duckworth-1
+279,1984-85,Eastern Illinois,Mid-Cont,28,29,733,.543,,,.384,,,,,,13.6,,duckwke01,kevin-duckworth-1
+280,1985-86,Eastern Illinois,Mid-Cont,32,32,1023,.659,,,.414,,,,,,12.4,,duckwke01,kevin-duckworth-1
+281,1981-82,McNeese State,Southland,29,,,.488,,,.345,,,,,,14.8,,dumarjo01,joe-dumars-1
+282,1982-83,McNeese State,Southland,29,,,.490,.440,.016,.405,,,,,,11.8,,dumarjo01,joe-dumars-1
+283,1983-84,McNeese State,Southland,31,,,.553,,,.553,,,,,,10.1,,dumarjo01,joe-dumars-1
+284,1984-85,McNeese State,Southland,27,,,.568,,,.471,,,,,,11.3,,dumarjo01,joe-dumars-1
+285,1978-79,BYU,WAC,28,,795,.576,,,.464,,,,,,18.9,,durrade01,devin-durrant-1
+286,1979-80,BYU,WAC,29,,836,.592,,,.491,,,,,,18.7,,durrade01,devin-durrant-1
+287,1982-83,BYU,WAC,29,,1094,.571,,,.572,,,,,,14.6,,durrade01,devin-durrant-1
+288,1983-84,BYU,WAC,31,,1225,.629,,,.565,,,,,,11.6,,durrade01,devin-durrant-1
+289,1979-80,Long Beach State,PCAA,31,,699,.622,,,.377,,,,,,,,dykemcr01,craig-dykema-1
+290,1980-81,Long Beach State,PCAA,28,,963,.548,,,.378,,,,,,,,dykemcr01,craig-dykema-1
+291,1980-81,UCLA,Pac-10,19,0,155,.433,,,.459,,,,,,22.4,,eatonma01,mark-eaton-1
+292,1981-82,UCLA,Pac-10,11,0,41,.487,,,.417,,,,,,,,eatonma01,mark-eaton-1
+293,1978-79,Louisville,Metro,32,,472,.564,,,.906,,,,,,28.2,,eavesje01,jerry-eaves-1
+294,1979-80,Louisville,Metro,34,,878,.558,,,.654,,,,,,,,eavesje01,jerry-eaves-1
+295,1980-81,Louisville,Metro,30,,915,.550,,,.468,,,,,,16.5,,eavesje01,jerry-eaves-1
+296,1981-82,Louisville,Metro,33,33,1018,.550,,,.370,,,,,,19.4,,eavesje01,jerry-eaves-1
+297,1981-82,Virginia,ACC,34,0,446,.660,,,.818,,,,,,25.9,,edelike01,kenton-edelin-1
+298,1982-83,Virginia,ACC,34,1,503,.444,,,.807,,,,,,26.2,,edelike01,kenton-edelin-1
+299,1983-84,Virginia,ACC,29,13,761,.655,,,.513,,,,,,28.1,,edelike01,kenton-edelin-1
+300,1978-79,Purdue,Big Ten,34,0,267,.408,,,.265,,,,,,,,edmonke01,keith-edmonson-1
+301,1979-80,Purdue,Big Ten,33,33,1046,.564,,,.378,,,,,,,,edmonke01,keith-edmonson-1
+302,1980-81,Purdue,Big Ten,32,31,1102,.565,,,.326,,,,,,,,edmonke01,keith-edmonson-1
+303,1981-82,Purdue,Big Ten,32,32,1160,.589,,,.393,,,,,,,,edmonke01,keith-edmonson-1
+304,1977-78,Cleveland State,Ind,25,,,.493,,,.293,,,,,,,,edwarfr01,franklin-edwards-1
+305,1978-79,Cleveland State,Ind,25,,,.523,,,.231,,,,,,,,edwarfr01,franklin-edwards-1
+306,1979-80,Cleveland State,Ind,25,,,.570,,,.315,,,,,,,,edwarfr01,franklin-edwards-1
+307,1980-81,Cleveland State,Ind,27,,,.577,,,.302,,,,,,,,edwarfr01,franklin-edwards-1
+308,1981-82,Washington State,Pac-10,30,,592,.510,,,.546,,,,,,28.9,,ehlocr01,craig-ehlo-1
+309,1982-83,Washington State,Pac-10,30,28,911,.567,,,.411,,,,,,25.1,,ehlocr01,craig-ehlo-1
+310,1979-80,Tennessee,SEC,27,6,573,.480,,,.220,,,,,,14.5,,ellisda01,dale-ellis-1
+311,1980-81,Tennessee,SEC,29,28,1057,.621,,,.308,,,,,,11.6,,ellisda01,dale-ellis-1
+312,1981-82,Tennessee,SEC,30,30,1134,.683,,,.387,,,,,,16.2,,ellisda01,dale-ellis-1
+313,1982-83,Tennessee,SEC,32,32,1179,.636,,,.476,,,,,,11.5,,ellisda01,dale-ellis-1
+314,1977-78,Minnesota,Big Ten,8,,,.382,,,.100,,,,,,,,englech01,chris-engler-1
+315,1978-79,Minnesota,Big Ten,8,,,.250,,,.000,,,,,,,,englech01,chris-engler-1
+316,1980-81,Wyoming,WAC,30,,649,.536,,,.263,,,,,,,,englech01,chris-engler-1
+317,1981-82,Wyoming,WAC,30,,877,.602,,,.307,,,,,,9.2,,englech01,chris-engler-1
+318,1981-82,Georgetown,Big East,37,36,1064,.635,,,.576,,,,,,16.9,,ewingpa01,patrick-ewing-1
+319,1982-83,Georgetown,Big East,32,32,1024,.591,,,.602,,,,,,14.5,,ewingpa01,patrick-ewing-1
+320,1983-84,Georgetown,Big East,37,33,1179,.664,,,.514,,,,,,16.3,,ewingpa01,patrick-ewing-1
+321,1984-85,Georgetown,Big East,37,,1132,.633,,,.455,,,,,,15.9,,ewingpa01,patrick-ewing-1
+322,1982-83,UTEP,WAC,29,,641,.549,,,.466,,,,,,18.2,,feitlda01,dave-feitl-1
+323,1983-84,UTEP,WAC,31,,575,.501,,,.341,,,,,,13.2,,feitlda01,dave-feitl-1
+324,1984-85,UTEP,WAC,32,,911,.571,,,.511,,,,,,11.9,,feitlda01,dave-feitl-1
+325,1985-86,UTEP,WAC,33,,1017,.550,,,.442,,,,,,12.8,,feitlda01,dave-feitl-1
+326,1980-81,UCLA,Pac-10,25,12,588,.598,,,.303,,,,,,14.2,,fieldke01,kenny-fields-1
+327,1981-82,UCLA,Pac-10,27,27,867,.577,,,.294,,,,,,10.2,,fieldke01,kenny-fields-1
+328,1982-83,UCLA,Pac-10,29,29,998,.565,,,.299,,,,,,8.3,,fieldke01,kenny-fields-1
+329,1983-84,UCLA,Pac-10,28,28,943,.543,,,.349,,,,,,11.6,,fieldke01,kenny-fields-1
+330,1980-81,Georgia,SEC,30,,1082,.532,,,.542,,,,,,19.8,,flemive01,vern-fleming-1
+331,1981-82,Georgia,SEC,31,27,1079,.529,,,.483,,,,,,21.4,,flemive01,vern-fleming-1
+332,1982-83,Georgia,SEC,34,34,1130,.570,,,.399,,,,,,13.1,,flemive01,vern-fleming-1
+333,1983-84,Georgia,SEC,30,30,1030,.535,,,.264,,,,,,14.1,,flemive01,vern-fleming-1
+334,1978-79,Georgetown,Ind,29,,975,.520,,,.399,,,,,,,,floydsl01,sleepy-floyd-1
+335,1979-80,Georgetown,Big East,32,,1052,.586,,,.315,,,,,,,,floydsl01,sleepy-floyd-1
+336,1980-81,Georgetown,Big East,32,32,1115,.518,,,.325,,,,,,15.7,,floydsl01,sleepy-floyd-1
+337,1981-82,Georgetown,Big East,37,,1200,.539,,,.340,,,,,,,,floydsl01,sleepy-floyd-1
+338,1979-80,UCLA,Pac-10,32,,839,.597,,,.361,,,,,,20.0,,fostero01,rod-foster-1
+339,1980-81,UCLA,Pac-10,25,25,664,.559,,,.270,,,,,,16.4,,fostero01,rod-foster-1
+340,1981-82,UCLA,Pac-10,27,15,577,.566,,,.503,,,,,,13.7,,fostero01,rod-foster-1
+341,1982-83,UCLA,Pac-10,29,29,835,.581,,,.290,,,,,,10.9,,fostero01,rod-foster-1
+342,1984-85,Pepperdine,WCAC,32,32,1027,.514,,,.454,,,,,,20.0,,fredean01,anthony-frederick-1
+343,1985-86,Pepperdine,WCAC,30,,936,.558,,,.258,,,,,,20.0,,fredean01,anthony-frederick-1
+344,1978-79,Wyoming,WAC,27,,818,.578,,,.716,,,,,,,,garnebi02,bill-garnett-1
+345,1979-80,Wyoming,WAC,28,,992,.584,,,.422,,,,,,,,garnebi02,bill-garnett-1
+346,1980-81,Wyoming,WAC,30,,1051,.566,,,.464,,,,,,,,garnebi02,bill-garnett-1
+347,1981-82,Wyoming,WAC,30,,1093,.662,,,.667,,,,,,8.1,,garnebi02,bill-garnett-1
+348,1978-79,Michigan,Big Ten,9,0,14,.548,,,.200,,12.1,0.0,,9.3,0.0,,garrijo01,john-garris-1
+349,1979-80,Michigan,Big Ten,24,5,257,.548,,,.173,,,,,,0.0,,garrijo01,john-garris-1
+350,1981-82,Boston College,Big East,29,0,441,.613,,,.455,,,,,,13.8,,garrijo01,john-garris-1
+351,1982-83,Boston College,Big East,32,,925,.621,,,.526,,,,,,13.5,,garrijo01,john-garris-1
+352,1982-83,Old Dominion,Sun Belt,29,18,705,.542,,,.417,,,,,,20.0,,gattike01,kenny-gattison-1
+353,1983-84,Old Dominion,Sun Belt,31,31,916,.532,,,.533,,,,,,13.4,,gattike01,kenny-gattison-1
+354,1984-85,Old Dominion,Sun Belt,31,,890,.559,,,.524,,,,,,13.1,,gattike01,kenny-gattison-1
+355,1985-86,Old Dominion,Sun Belt,31,31,1008,.650,,,.447,,,,,,15.8,,gattike01,kenny-gattison-1
+356,1982-83,UTSA,Ind,25,20,655,.557,,,.343,,,,,,16.1,,gervide01,derrick-gervin-1
+357,1983-84,UTSA,Ind,27,26,864,.590,,,.443,,,,,,9.9,,gervide01,derrick-gervin-1
+358,1984-85,UTSA,Ind,28,28,949,.615,,,.441,,,,,,10.7,,gervide01,derrick-gervin-1
+359,1981-82,Pepperdine,WCAC,17,0,44,.394,,,.412,,,,,,16.4,,gondrgr01,grant-gondrezick-1
+360,1982-83,Pepperdine,WCAC,27,4,549,.456,,,.281,,,,,,20.8,,gondrgr01,grant-gondrezick-1
+361,1983-84,Pepperdine,WCAC,28,,787,.518,,,.189,,,,,,13.4,,gondrgr01,grant-gondrezick-1
+362,1985-86,Pepperdine,WCAC,30,,670,.625,,,.518,,,,,,11.8,,gondrgr01,grant-gondrezick-1
+363,1980-81,Louisville,Metro,30,,630,.493,,,.239,,,,,,19.2,,gordola01,lancaster-gordon-1
+364,1981-82,Louisville,Metro,33,33,956,.521,,,.236,,,,,,16.7,,gordola01,lancaster-gordon-1
+365,1982-83,Louisville,Metro,36,36,1164,.550,,,.248,,,,,,17.7,,gordola01,lancaster-gordon-1
+366,1983-84,Louisville,Metro,35,34,1177,.550,,,.256,,,,,,16.6,,gordola01,lancaster-gordon-1
+367,1979-80,Florida,SEC,26,7,390,.494,,,.718,,,,,,20.8,,grandji01,jim-grandholm-1
+368,1981-82,South Florida,Sun Belt,28,27,790,.523,,,.377,,,,,,18.4,,grandji01,jim-grandholm-1
+369,1982-83,South Florida,Sun Belt,32,32,916,.741,.552,.075,.629,,,,,,12.6,,grandji01,jim-grandholm-1
+370,1983-84,South Florida,Sun Belt,28,28,917,.553,,,.403,,,,,,9.4,,grandji01,jim-grandholm-1
+371,1979-80,Villanova,EAA,30,,392,.569,,,.590,,,,,,36.8,,grangst01,stewart-granger-1
+372,1980-81,Villanova,Big East,31,,1122,.564,,,.472,,,,,,26.5,,grangst01,stewart-granger-1
+373,1981-82,Villanova,Big East,32,,1089,.535,,,.355,,,,,,24.1,,grangst01,stewart-granger-1
+374,1982-83,Villanova,Big East,32,,1055,.564,,,.413,,,,,,22.2,,grangst01,stewart-granger-1
+375,1980-81,Yale,Ivy,26,,862,.502,,,.398,,,,,,,,gravebu01,butch-graves-1
+376,1981-82,Yale,Ivy,25,,843,.566,,,.396,,,,,,,,gravebu01,butch-graves-1
+377,1982-83,Yale,Ivy,26,,997,.567,,,.532,,,,,,,,gravebu01,butch-graves-1
+378,1983-84,Yale,Ivy,26,26,966,.505,,,.344,,,,,,15.0,,gravebu01,butch-graves-1
+379,1981-82,UCLA,Pac-10,27,26,589,.504,,,.396,,,,,,21.0,,grayst01,stuart-gray-1
+380,1982-83,UCLA,Pac-10,23,20,570,.566,,,.336,,,,,,13.9,,grayst01,stuart-gray-1
+381,1983-84,UCLA,Pac-10,28,28,860,.628,,,.508,,,,,,16.0,,grayst01,stuart-gray-1
+382,1981-82,Oregon State,Pac-10,30,,895,.621,,,.621,,,,,,25.7,,greenac01,ac-green-1
+383,1982-83,Oregon State,Pac-10,31,,1113,.593,,,.555,,,,,,18.5,,greenac01,ac-green-1
+384,1983-84,Oregon State,Pac-10,23,23,853,.703,,,.897,,,,,,16.9,,greenac01,ac-green-1
+385,1984-85,Oregon State,Pac-10,31,31,1191,.626,,,.638,,,,,,13.4,,greenac01,ac-green-1
+386,1982-83,Wake Forest,ACC,25,5,455,.571,,,.392,,,,,,14.0,,greenke02,kenny-green-1
+387,1983-84,Wake Forest,ACC,31,31,1060,.598,,,.343,,,,,,12.2,,greenke02,kenny-green-1
+388,1984-85,Wake Forest,ACC,28,27,1028,.524,,,.266,,,,,,12.4,,greenke02,kenny-green-1
+389,1979-80,UNLV,Ind,32,,1024,.552,,,.340,,,,,,22.5,,greensi02,sidney-green-1
+390,1980-81,UNLV,Ind,26,,817,.552,,,.404,,,,,,18.6,,greensi02,sidney-green-1
+391,1981-82,UNLV,Ind,30,29,963,.574,,,.348,,,,,,,,greensi02,sidney-green-1
+392,1982-83,UNLV,PCAA,31,31,1120,.582,.552,.024,.413,,,,,,12.8,,greensi02,sidney-green-1
+393,1977-78,Wisconsin,Big Ten,27,7,554,.435,,,.404,,,,,,20.2,,gregocl01,claude-gregory-1
+394,1978-79,Wisconsin,Big Ten,27,26,866,.467,,,.275,,,,,,,,gregocl01,claude-gregory-1
+395,1979-80,Wisconsin,Big Ten,29,28,1001,.520,,,.446,,,,,,17.9,,gregocl01,claude-gregory-1
+396,1980-81,Wisconsin,Big Ten,27,27,989,.515,,,.461,,,,,,17.0,,gregocl01,claude-gregory-1
+397,1979-80,Oregon,Pac-10,27,8,445,.495,,,.350,,,,,,22.2,,greigjo01,john-greig-1
+398,1980-81,Oregon,Pac-10,27,27,739,.612,,,.401,,,,,,18.1,,greigjo01,john-greig-1
+399,1981-82,Oregon,Pac-10,27,27,856,.550,,,.562,,,,,,17.9,,greigjo01,john-greig-1
+400,1979-80,Iowa,Big Ten,33,,,.459,,,.437,,,,,,,,hansebo01,bob-hansen-1
+401,1980-81,Iowa,Big Ten,22,,,.511,,,.340,,,,,,,,hansebo01,bob-hansen-1
+402,1981-82,Iowa,Big Ten,25,,,.532,,,.392,,,,,,,,hansebo01,bob-hansen-1
+403,1982-83,Iowa,Big Ten,31,,,.542,.500,.053,.341,,,,,,,,hansebo01,bob-hansen-1
+404,1980-81,Illinois,Big Ten,29,27,934,.440,,,.183,,,,,,19.4,,harpede01,derek-harper-1
+405,1981-82,Illinois,Big Ten,29,27,1059,.485,,,.196,,,,,,16.9,,harpede01,derek-harper-1
+406,1982-83,Illinois,Big Ten,32,32,1182,.576,.554,.073,.333,,,,,,17.4,,harpede01,derek-harper-1
+407,1982-83,Miami (OH),MAC,28,,887,.525,,,.319,,,,,,19.7,,harpero01,ron-harper-1
+408,1983-84,Miami (OH),MAC,30,,989,.548,,,.450,,,,,,12.9,,harpero01,ron-harper-1
+409,1984-85,Miami (OH),MAC,31,,1144,.565,,,.388,,,,,,12.4,,harpero01,ron-harper-1
+410,1985-86,Miami (OH),MAC,31,,1144,.567,,,.350,,,,,,11.7,,harpero01,ron-harper-1
+411,1981-82,Tulsa,MVC,29,2,587,.574,,,.280,,,,,,17.6,,harrist01,steve-harris-1
+412,1982-83,Tulsa,MVC,31,31,1119,.575,,,.269,,,,,,12.3,,harrist01,steve-harris-1
+413,1983-84,Tulsa,MVC,31,30,1043,.612,,,.303,,,,,,12.1,,harrist01,steve-harris-1
+414,1984-85,Tulsa,MVC,31,31,1069,.609,,,.431,,,,,,9.3,,harrist01,steve-harris-1
+415,1978-79,Arkansas,SWC,30,,753,.548,,,.387,,,,,,19.3,,hastisc01,scott-hastings-1
+416,1979-80,Arkansas,SWC,29,,1033,.589,,,.497,,,,,,15.7,,hastisc01,scott-hastings-1
+417,1980-81,Arkansas,SWC,32,,1054,.607,,,.554,,,,,,15.7,,hastisc01,scott-hastings-1
+418,1981-82,Arkansas,SWC,29,,1040,.595,,,.480,,,,,,15.3,,hastisc01,scott-hastings-1
+419,1984-85,Georgia,SEC,28,,741,.576,,,.472,,,,,,13.0,,hendece01,cedric-henderson-1
+420,1982-83,Duke,ACC,28,,697,.482,,,.227,,10.0,,,,,,hendeda01,dave-henderson-1
+421,1983-84,Duke,ACC,33,,878,.544,,,.607,,7.8,16.1,,,,,hendeda01,dave-henderson-1
+422,1984-85,Duke,ACC,28,,660,.523,,,.631,,9.3,13.3,,,,,hendeda01,dave-henderson-1
+423,1985-86,Duke,ACC,39,,1090,.559,,,.382,,10.3,14.6,,0.1,,,hendeda01,dave-henderson-1
+424,1979-80,New Mexico,WAC,13,10,381,.516,,,.370,,,,,,22.0,,hendeje01,jerome-henderson-1
+425,1980-81,New Mexico,WAC,23,21,738,.582,,,.312,,,,,,12.9,,hendeje01,jerome-henderson-1
+426,1983-84,Cal State Fullerton,PCAA,22,4,329,.524,,,.302,,,,,,17.3,,hendeke01,kevin-henderson-1
+427,1984-85,Cal State Fullerton,PCAA,30,30,1081,.543,,,.359,,,,,,15.6,,hendeke01,kevin-henderson-1
+428,1985-86,Cal State Fullerton,PCAA,21,17,575,.582,,,.433,,,,,,15.8,,hendeke01,kevin-henderson-1
+429,1979-80,Oklahoma City,MW City,28,,,.487,,,.369,,,,,,,,henryca01,carl-henry-1
+430,1980-81,Oklahoma City,MW City,29,,1053,.537,,,.299,,,,,,14.1,,henryca01,carl-henry-1
+431,1982-83,Kansas,Big 8,29,29,1050,.580,,,.434,,,,,,,,henryca01,carl-henry-1
+432,1983-84,Kansas,Big 8,32,32,1120,.602,,,.412,,,,,,13.2,,henryca01,carl-henry-1
+433,1982-83,UCSB,PCAA,25,,524,.434,,,.341,,,,,,29.4,,henryco01,conner-henry-1
+434,1983-84,UCSB,PCAA,27,,865,.530,,,.429,,,,,,21.0,,henryco01,conner-henry-1
+435,1984-85,UCSB,PCAA,22,,789,.536,,,.457,,,,,,24.3,,henryco01,conner-henry-1
+436,1985-86,UCSB,PCAA,27,,981,.541,,,.360,,,,,,14.5,,henryco01,conner-henry-1
+437,1978-79,Fresno State,PCAA,22,,,.561,,,.431,,,,,,,,higgiro01,rod-higgins-1
+438,1979-80,Fresno State,PCAA,24,,,.562,,,.366,,,,,,13.8,,higgiro01,rod-higgins-1
+439,1980-81,Fresno State,PCAA,29,,941,.605,,,.339,,,,,,,,higgiro01,rod-higgins-1
+440,1981-82,Fresno State,PCAA,29,,1025,.568,,,.313,,,,,,11.7,,higgiro01,rod-higgins-1
+441,1979-80,Rutgers,EAA,28,28,796,.515,,,.333,,,,,,,,hinsoro01,roy-hinson-1
+442,1980-81,Rutgers,EAA,30,,952,.505,,,.317,,,,,,,,hinsoro01,roy-hinson-1
+443,1981-82,Rutgers,EAA,30,,1015,.505,,,.377,,,,,,,,hinsoro01,roy-hinson-1
+444,1982-83,Rutgers,A-10,31,,1048,.556,,,.488,,,,,,,,hinsoro01,roy-hinson-1
+445,1978-79,Long Beach State,PCAA,28,,801,.548,,,.209,,,,,,,,hodgecr01,craig-hodges-1
+446,1979-80,Long Beach State,PCAA,33,,1148,.530,,,.188,,,,,,,,hodgecr01,craig-hodges-1
+447,1980-81,Long Beach State,PCAA,26,,755,.477,,,.200,,,,,,,,hodgecr01,craig-hodges-1
+448,1981-82,Long Beach State,PCAA,28,,1005,.502,,,.207,,,,,,,,hodgecr01,craig-hodges-1
+449,1979-80,UCLA,Pac-10,32,,802,.587,,,.695,,,,,,30.0,,holtomi01,mike-holton-1
+450,1980-81,UCLA,Pac-10,27,,734,.547,,,.416,,,,,,19.3,,holtomi01,mike-holton-1
+451,1981-82,UCLA,Pac-10,27,,677,.530,,,.422,,,,,,20.6,,holtomi01,mike-holton-1
+452,1982-83,UCLA,Pac-10,29,,721,.610,,,.466,,,,,,24.3,,holtomi01,mike-holton-1
+453,1982-83,Nebraska,Big 8,32,32,829,.576,,,.511,,,,,,14.2,,hoppeda01,dave-hoppen-1
+454,1983-84,Nebraska,Big 8,30,30,1058,.642,,,.567,,,,,,13.7,,hoppeda01,dave-hoppen-1
+455,1984-85,Nebraska,Big 8,30,30,1155,.680,,,.502,,,,,,10.1,,hoppeda01,dave-hoppen-1
+456,1985-86,Nebraska,Big 8,19,19,669,.667,,,.600,,,,,,9.7,,hoppeda01,dave-hoppen-1
+457,1982-83,Iowa State,Big 8,27,13,583,.467,,,.333,,,,,,22.3,,hornaje01,jeff-hornacek-1
+458,1983-84,Iowa State,Big 8,29,29,1065,.564,,,.505,,,,,,25.0,,hornaje01,jeff-hornacek-1
+459,1984-85,Iowa State,Big 8,34,34,1224,.566,,,.291,,,,,,16.1,,hornaje01,jeff-hornacek-1
+460,1985-86,Iowa State,Big 8,33,33,1229,.525,,,.338,,,,,,15.4,,hornaje01,jeff-hornacek-1
+461,1981-82,Loyola (IL),MW City,29,27,1019,.426,,,.203,,,,,,12.3,,hugheri01,rick-hughes-1
+462,1982-83,Loyola (IL),MW City,29,29,1038,.465,,,.264,,,,,,10.7,,hugheri01,rick-hughes-1
+463,1983-84,Loyola (IL),MW City,29,29,1151,.530,,,.319,,,,,,8.7,,hugheri01,rick-hughes-1
+464,1984-85,Loyola (IL),MW City,33,33,1251,.511,,,.258,,12.5,5.1,,0.2,8.7,,hugheri01,rick-hughes-1
+465,1978-79,Colorado State,WAC,27,,,.541,,,.260,,,,,,,,hugheed01,eddie-hughes-1
+466,1979-80,Colorado State,WAC,27,26,1033,.536,,,.263,,,,,,,,hugheed01,eddie-hughes-1
+467,1980-81,Colorado State,WAC,26,22,935,.507,,,.332,,,,,,15.8,,hugheed01,eddie-hughes-1
+468,1981-82,Colorado State,WAC,26,,831,.483,,,.277,,,,,,,,hugheed01,eddie-hughes-1
+469,1981-82,Loyola (IL),MW City,29,27,1019,.426,,,.203,,,,,,12.3,,hugheri02,rick-hughes-1
+470,1982-83,Loyola (IL),MW City,29,29,1038,.465,,,.264,,,,,,10.7,,hugheri02,rick-hughes-1
+471,1983-84,Loyola (IL),MW City,29,29,1151,.530,,,.319,,,,,,8.7,,hugheri02,rick-hughes-1
+472,1984-85,Loyola (IL),MW City,33,33,1251,.511,,,.258,,12.5,5.1,,0.2,8.7,,hugheri02,rick-hughes-1
+473,1980-81,Colorado,Big 8,28,,762,.541,,,.329,,,,,,22.1,,humphja01,jay-humphries-1
+474,1981-82,Colorado,Big 8,27,27,948,.496,,,.343,,,,,,18.5,,humphja01,jay-humphries-1
+475,1982-83,Colorado,Big 8,28,28,1034,.521,,,.280,,,,,,18.1,,humphja01,jay-humphries-1
+476,1983-84,Colorado,Big 8,29,29,1120,.561,,,.410,,,,,,18.4,,humphja01,jay-humphries-1
+477,1982-83,Georgetown,Big East,32,32,858,.539,,,.493,,,,,,21.7,,jacksmi02,michael-jackson-1
+478,1983-84,Georgetown,Big East,31,18,833,.573,,,.456,,,,,,24.9,,jacksmi02,michael-jackson-1
+479,1984-85,Georgetown,Big East,36,,980,.488,,,.321,,,,,,23.8,,jacksmi02,michael-jackson-1
+480,1985-86,Georgetown,Big East,32,32,947,.552,,,.365,,,,,,22.4,,jacksmi02,michael-jackson-1
+481,1980-81,UCLA,Pac-10,27,1,753,.464,,,.383,,,,,,26.3,,jacksra01,ralph-jackson-1
+482,1981-82,UCLA,Pac-10,27,27,875,.493,,,.357,,,,,,21.6,,jacksra01,ralph-jackson-1
+483,1982-83,UCLA,Pac-10,29,27,844,.513,,,.327,,,,,,24.1,,jacksra01,ralph-jackson-1
+484,1983-84,UCLA,Pac-10,28,28,1030,.541,,,.372,,,,,,19.3,,jacksra01,ralph-jackson-1
+485,1977-78,Notre Dame,Ind,28,,378,.568,,,.333,,,,,,,,jackstr01,tracy-jackson-1
+486,1978-79,Notre Dame,Ind,30,1,714,.548,,,.350,,10.9,10.5,,0.6,12.1,,jackstr01,tracy-jackson-1
+487,1979-80,Notre Dame,Ind,28,28,877,.554,,,.448,,,,,,,,jackstr01,tracy-jackson-1
+488,1980-81,Notre Dame,Ind,28,28,942,.579,,,.230,,,,,,,,jackstr01,tracy-jackson-1
+489,1982-83,Alabama,SEC,32,,834,.510,,,.406,,,,,,22.5,,johnsbu01,buck-johnson-1
+490,1983-84,Alabama,SEC,28,28,1042,.557,,,.427,,,,,,14.9,,johnsbu01,buck-johnson-1
+491,1984-85,Alabama,SEC,33,33,1172,.592,,,.418,,,,,,15.7,,johnsbu01,buck-johnson-1
+492,1985-86,Alabama,SEC,29,,1082,.623,,,.381,,,,,,15.0,,johnsbu01,buck-johnson-1
+493,1977-78,Illinois,Big Ten,27,3,469,.446,,,.115,,,,,,9.2,,johnsed03,eddie-johnson-2
+494,1978-79,Illinois,Big Ten,30,27,786,.423,,,.121,,,,,,12.6,,johnsed03,eddie-johnson-2
+495,1979-80,Illinois,Big Ten,35,35,1215,.482,,,.207,,,,,,9.2,,johnsed03,eddie-johnson-2
+496,1980-81,Illinois,Big Ten,29,29,1009,.519,,,.185,,,,,,9.9,,johnsed03,eddie-johnson-2
+497,1976-77,Wake Forest,ACC,30,29,1044,.482,,,.210,,,,,,16.2,,johnsfr01,frank-johnson-1
+498,1977-78,Wake Forest,ACC,29,29,999,.522,,,.311,,4.7,16.2,,0.0,17.9,,johnsfr01,frank-johnson-1
+499,1978-79,Wake Forest,ACC,27,26,957,.525,,,.353,,,,,,16.0,,johnsfr01,frank-johnson-1
+500,1979-80,Wake Forest,ACC,5,3,109,.381,,,.313,,,,,,31.6,,johnsfr01,frank-johnson-1
+501,1980-81,Wake Forest,ACC,29,29,945,.566,,,.323,,,,,,18.7,,johnsfr01,frank-johnson-1
+502,1981-82,USC,Pac-10,28,,,.513,,,.341,,,,,,,,johnske01,ken-johnson-1
+503,1982-83,USC,Pac-10,1,1,30,.154,,,.167,,,,,,13.4,,johnske01,ken-johnson-1
+504,1983-84,Michigan State,Big Ten,19,11,475,.518,,,.386,,17.8,1.2,,3.9,15.2,,johnske01,ken-johnson-1
+505,1984-85,Michigan State,Big Ten,28,28,990,.581,,,.467,,,,,,19.6,,johnske01,ken-johnson-1
+506,1981-82,LSU,SEC,26,6,390,.544,,,.594,,,,,,,,johnsst02,steffond-johnson-1
+507,1982-83,LSU,SEC,26,,349,.481,,,.542,,,,,,,,johnsst02,steffond-johnson-1
+508,1983-84,LSU,SEC,18,6,198,.530,,,.439,,,,,,28.2,,johnsst02,steffond-johnson-1
+509,1985-86,San Diego State,WAC,17,16,528,.508,,,.529,,,,,,16.0,,johnsst02,steffond-johnson-1
+510,1976-77,Oregon State,Pac-8,28,,616,.611,,,.341,,,,,,16.4,,johnsst03,steve-johnson-2
+511,1977-78,Oregon State,Pac-8,3,,62,.586,,,.289,,,,,,16.3,,johnsst03,steve-johnson-2
+512,1978-79,Oregon State,Pac-10,27,,724,.658,,,.567,,,,,,16.7,,johnsst03,steve-johnson-2
+513,1979-80,Oregon State,Pac-10,30,,711,.696,,,.488,,,,,,,,johnsst03,steve-johnson-2
+514,1980-81,Oregon State,Pac-10,28,,716,.741,,,.552,,,,,,14.4,,johnsst03,steve-johnson-2
+515,1978-79,Wake Forest,ACC,27,24,700,.572,,,.290,,,,,,17.2,,johnsji01,jim-johnstone-1
+516,1979-80,Wake Forest,ACC,26,24,709,.602,,,.331,,,,,,14.5,,johnsji01,jim-johnstone-1
+517,1980-81,Wake Forest,ACC,28,28,769,.629,,,.414,,,,,,13.1,,johnsji01,jim-johnstone-1
+518,1981-82,Wake Forest,ACC,30,29,847,.642,,,.341,,,,,,15.2,,johnsji01,jim-johnstone-1
+519,1981-82,Georgetown,Big East,37,1,643,.513,,,.353,,,,,,16.3,,jonesan01,anthony-jones-1
+520,1982-83,Georgetown,Big East,25,10,504,.511,,,.258,,,,,,19.4,,jonesan01,anthony-jones-1
+521,1983-84,UNLV,PCAA,,,,,,,,,,,,,,,jonesan01,anthony-jones-1
+522,1984-85,UNLV,PCAA,31,31,976,.510,,,.184,,,,,,13.0,,jonesan01,anthony-jones-1
+523,1985-86,UNLV,PCAA,38,38,1259,.554,,,.217,,,,,,8.7,,jonesan01,anthony-jones-1
+524,1980-81,Louisville,Metro,27,,538,.532,,,.648,,,,,,19.8,,jonesch02,charles-jones-1
+525,1981-82,Louisville,Metro,31,7,553,.635,,,.902,,,,,,24.0,,jonesch02,charles-jones-1
+526,1982-83,Louisville,Metro,36,36,1088,.592,,,.757,,,,,,16.9,,jonesch02,charles-jones-1
+527,1983-84,Louisville,Metro,35,35,1210,.558,,,.604,,,,,,18.2,,jonesch02,charles-jones-1
+528,1979-80,Vanderbilt,SEC,25,,556,.602,,,.477,,,,,,,,joneshu01,hutch-jones-1
+529,1980-81,Vanderbilt,SEC,29,,584,.688,,,.455,,,,,,,,joneshu01,hutch-jones-1
+530,1981-82,Vanderbilt,SEC,28,,948,.620,,,.500,,,,,,,,joneshu01,hutch-jones-1
+531,1979-80,St. Bonaventure,EAA,27,,,.571,,,.413,,,,,,,,jonesma02,mark-jones-1
+532,1980-81,St. Bonaventure,EAA,27,,,.527,,,.244,,,,,,,,jonesma02,mark-jones-1
+533,1981-82,St. Bonaventure,EAA,28,28,1034,.529,,,.346,,,,,,18.6,,jonesma02,mark-jones-1
+534,1982-83,St. Bonaventure,A-10,30,,1027,.582,.531,.042,.528,,,,,,16.0,,jonesma02,mark-jones-1
+535,1979-80,Wichita State,MVC,29,,604,.441,,,.201,,,,,,18.5,,jonesoz01,ozell-jones-1
+536,1980-81,Wichita State,MVC,28,23,576,.481,,,.257,,,,,,19.2,,jonesoz01,ozell-jones-1
+537,1982-83,Cal State Fullerton,PCAA,29,24,758,.542,,,.336,,,,,,16.3,,jonesoz01,ozell-jones-1
+538,1983-84,Cal State Fullerton,PCAA,29,29,929,.537,,,.440,,,,,,18.4,,jonesoz01,ozell-jones-1
+539,1981-82,UNC,ACC,34,,1079,.562,,,.302,,,,,,12.2,,jordami01,michael-jordan-1
+540,1982-83,UNC,ACC,36,,1113,.595,.567,.144,.317,,,,,,11.1,,jordami01,michael-jordan-1
+541,1983-84,UNC,ACC,31,,915,.587,,,.324,,,,,,11.5,,jordami01,michael-jordan-1
+542,1982-83,Georgia Tech,ACC,2,0,32,.504,.471,.000,.353,,,,,,9.2,,josepyv01,yvon-joseph-1
+543,1983-84,Georgia Tech,ACC,29,27,851,.573,,,.533,,,,,,17.8,,josepyv01,yvon-joseph-1
+544,1984-85,Georgia Tech,ACC,34,33,1051,.605,,,.459,,13.5,5.9,,0.3,22.0,,josepyv01,yvon-joseph-1
+545,1981-82,Santa Clara,WCAC,25,7,357,.511,,,.432,,,,,,16.6,,keeliha01,harold-keeling-1
+546,1982-83,Santa Clara,WCAC,28,,895,.507,,,.405,,,,,,13.4,,keeliha01,harold-keeling-1
+547,1983-84,Santa Clara,WCAC,32,,1065,.541,,,.354,,,,,,15.2,,keeliha01,harold-keeling-1
+548,1984-85,Santa Clara,WCAC,29,29,997,.557,,,.433,,,,,,10.0,,keeliha01,harold-keeling-1
+549,1979-80,Ohio State,Big Ten,29,27,938,.478,,,.252,,,,,,21.8,,kellocl01,clark-kellogg-1
+550,1980-81,Ohio State,Big Ten,27,27,971,.522,,,.284,,,,,,18.7,,kellocl01,clark-kellogg-1
+551,1981-82,Ohio State,Big Ten,30,30,1102,.547,,,.191,,,,,,12.5,,kellocl01,clark-kellogg-1
+552,1982-83,Notre Dame,Ind,27,24,739,.643,,,.673,,,,,,,,kemptti01,tim-kempton-1
+553,1983-84,Notre Dame,Ind,26,,775,.572,,,.897,,,,,,,,kemptti01,tim-kempton-1
+554,1984-85,Notre Dame,Ind,27,,671,.527,,,.617,,,,,,,,kemptti01,tim-kempton-1
+555,1985-86,Notre Dame,Ind,28,28,617,.586,,,.457,,,,,,,,kemptti01,tim-kempton-1
+556,1977-78,Maryland,ACC,28,26,781,.521,,,.251,,,,,,18.1,,kingal01,albert-king-1
+557,1978-79,Maryland,ACC,28,24,857,.522,,,.209,,,,,,15.3,,kingal01,albert-king-1
+558,1979-80,Maryland,ACC,31,31,970,.593,,,.304,,,,,,13.4,,kingal01,albert-king-1
+559,1980-81,Maryland,ACC,31,31,1075,.540,,,.253,,,,,,18.6,,kingal01,albert-king-1
+560,1982-83,South Florida,Sun Belt,32,8,586,.470,,,.664,,,,,,24.1,,kitchcu01,curtis-kitchen-1
+561,1983-84,South Florida,Sun Belt,28,28,728,.499,,,.533,,,,,,21.1,,kitchcu01,curtis-kitchen-1
+562,1984-85,South Florida,Sun Belt,30,30,897,.514,,,.472,,,,,,20.0,,kitchcu01,curtis-kitchen-1
+563,1985-86,South Florida,Sun Belt,28,,913,.494,,,.494,,,,,,24.0,,kitchcu01,curtis-kitchen-1
+564,1979-80,BYU,WAC,21,,192,.334,,,.521,,,,,,21.1,,kitegr01,greg-kite-1
+565,1980-81,BYU,WAC,32,,1002,.494,,,.457,,,,,,19.7,,kitegr01,greg-kite-1
+566,1981-82,BYU,WAC,30,,853,.468,,,.385,,,,,,20.3,,kitegr01,greg-kite-1
+567,1982-83,BYU,WAC,29,,896,.462,,,.374,,,,,,15.6,,kitegr01,greg-kite-1
+568,1980-81,Notre Dame,Ind,29,11,291,.660,,,.320,,,,,,,,kleinjo01,joe-kleine-1
+569,1981-82,Arkansas,SWC,,,,,,,,,,,,,,,kleinjo01,joe-kleine-1
+570,1982-83,Arkansas,SWC,30,,950,.556,,,.355,,,,,,18.4,,kleinjo01,joe-kleine-1
+571,1983-84,Arkansas,SWC,32,32,1173,.644,,,.601,,,,,,17.8,,kleinjo01,joe-kleine-1
+572,1984-85,Arkansas,SWC,35,35,1289,.638,,,.531,,,,,,12.6,,kleinjo01,joe-kleine-1
+573,1981-82,SMU,SWC,27,27,745,.491,,,.397,,,,,,16.1,,koncajo01,jon-koncak-1
+574,1982-83,SMU,SWC,30,,980,.557,,,.368,,,,,,13.1,,koncajo01,jon-koncak-1
+575,1983-84,SMU,SWC,33,33,1162,.624,,,.426,,,,,,16.4,,koncajo01,jon-koncak-1
+576,1984-85,SMU,SWC,33,,1084,.614,,,.519,,,,,,14.9,,koncajo01,jon-koncak-1
+577,1982-83,Montana,Big Sky,28,2,396,.513,,,.794,,,,,,17.3,,krystla01,larry-krystkowiak-1
+578,1983-84,Montana,Big Sky,30,,1068,.616,,,.621,,,,,,11.9,,krystla01,larry-krystkowiak-1
+579,1984-85,Montana,Big Sky,30,,1079,.656,,,.664,,,,,,13.6,,krystla01,larry-krystkowiak-1
+580,1985-86,Montana,Big Sky,32,32,1118,.626,,,.570,,,,,,9.0,,krystla01,larry-krystkowiak-1
+581,1979-80,UConn,Big East,29,1,473,.511,,,.530,,,,,,,,kuczebr01,bruce-kuczenski-1
+582,1980-81,UConn,Big East,29,0,317,.642,,,.725,,,,,,24.3,,kuczebr01,bruce-kuczenski-1
+583,1981-82,UConn,Big East,28,4,474,.456,,,.505,,,,,,18.7,,kuczebr01,bruce-kuczenski-1
+584,1982-83,UConn,Big East,28,28,826,.488,,,.336,,,,,,18.6,,kuczebr01,bruce-kuczenski-1
+585,1977-78,Virginia,ACC,28,,930,.506,,,.537,,7.9,12.9,,0.1,15.4,,lampje01,jeff-lamp-1
+586,1978-79,Virginia,ACC,28,,967,.554,,,.449,,7.6,11.8,,0.2,13.6,,lampje01,jeff-lamp-1
+587,1979-80,Virginia,ACC,34,,1200,.572,,,.339,,,,,,17.3,,lampje01,jeff-lamp-1
+588,1980-81,Virginia,ACC,33,33,1134,.612,,,.438,,,,,,11.5,,lampje01,jeff-lamp-1
+589,1981-82,Memphis,Metro,29,,1041,.585,,,.481,,,,,,19.8,,leeke01,keith-lee-1
+590,1982-83,Memphis,Metro,31,,1109,.559,,,.393,,,,,,14.8,,leeke01,keith-lee-1
+591,1983-84,Memphis,Metro,33,,1139,.578,,,.333,,,,,,12.5,,leeke01,keith-lee-1
+592,1984-85,Memphis,Metro,35,,1141,.545,,,.373,,,,,,12.6,,leeke01,keith-lee-1
+593,1981-82,Cleveland State,Ind,27,24,,.526,,,.434,,,,,,,,lesji01,jim-les-1
+594,1982-83,Cleveland State,Mid-Cont,4,4,,.487,,,.200,,,,,,39.0,,lesji01,jim-les-1
+595,1983-84,Bradley,MVC,22,22,800,.474,,,.487,,,,,,29.7,,lesji01,jim-les-1
+596,1984-85,Bradley,MVC,30,30,1126,.560,,,.386,,,,,,23.5,,lesji01,jim-les-1
+597,1985-86,Bradley,MVC,35,35,1278,.527,,,.331,,,,,,16.8,,lesji01,jim-les-1
+598,1978-79,Arizona State,Pac-10,29,,377,.473,,,.413,,,,,,,,leverfa01,fat-lever-1
+599,1979-80,Arizona State,Pac-10,29,,974,.498,,,.468,,,,,,,,leverfa01,fat-lever-1
+600,1980-81,Arizona State,Pac-10,28,,1038,.516,,,.448,,,,,,,,leverfa01,fat-lever-1
+601,1981-82,Arizona State,Pac-10,27,,1032,.519,,,.401,,,,,,,,leverfa01,fat-lever-1
+602,1979-80,Wichita State,MVC,29,,914,.562,,,.367,,,,,,17.8,,levincl01,cliff-levingston-1
+603,1980-81,Wichita State,MVC,33,33,1108,.562,,,.429,,,,,,13.6,,levincl01,cliff-levingston-1
+604,1981-82,Wichita State,MVC,29,27,902,.541,,,.401,,,,,,17.2,,levincl01,cliff-levingston-1
+605,1981-82,La Salle,ECC,25,,,.512,,,.575,,,,,,,,lewisra01,ralph-lewis-1
+606,1982-83,La Salle,ECC,32,32,1071,.505,,,.466,,,,,,10.2,,lewisra01,ralph-lewis-1
+607,1983-84,La Salle,MAAC,31,,1147,.627,,,.545,,,,,,9.6,,lewisra01,ralph-lewis-1
+608,1984-85,La Salle,MAAC,28,28,1064,.598,,,.458,,,,,,13.1,,lewisra01,ralph-lewis-1
+609,1978-79,Arizona State,Pac-10,29,12,584,.512,,,.402,,,,,,26.6,,listeal01,alton-lister-1
+610,1979-80,Arizona State,Pac-10,27,27,793,.517,,,.394,,,,,,21.7,,listeal01,alton-lister-1
+611,1980-81,Arizona State,Pac-10,26,26,845,.589,,,.436,,,,,,16.9,,listeal01,alton-lister-1
+612,1979-80,Drake,MVC,27,27,1022,.585,,,.403,,,,,,11.9,,lloydle01,lewis-lloyd-1
+613,1980-81,Drake,MVC,29,29,1044,.582,,,.409,,,,,,11.7,,lloydle01,lewis-lloyd-1
+614,1979-80,Auburn,SEC,28,,766,.506,,,.322,,,,,,17.9,,lockhda01,darrell-lockhart-1
+615,1980-81,Auburn,SEC,27,27,845,.567,,,.193,,,,,,16.1,,lockhda01,darrell-lockhart-1
+616,1981-82,Auburn,SEC,28,28,896,.578,,,.199,,,,,,18.6,,lockhda01,darrell-lockhart-1
+617,1982-83,Auburn,SEC,28,28,864,.565,,,.178,,,,,,16.6,,lockhda01,darrell-lockhart-1
+618,1979-80,North Carolina State,ACC,28,,628,.545,,,1.082,,,,,,25.0,,lowesi01,sidney-lowe-1
+619,1980-81,North Carolina State,ACC,24,,846,.540,,,.649,,,,,,25.1,,lowesi01,sidney-lowe-1
+620,1981-82,North Carolina State,ACC,32,,1169,.574,,,.559,,,,,,22.7,,lowesi01,sidney-lowe-1
+621,1982-83,North Carolina State,ACC,36,,1374,.517,,,.393,,,,,,19.2,,lowesi01,sidney-lowe-1
+622,1976-77,LSU,SEC,26,26,869,.537,,,.329,,,,,,,,macklru01,rudy-macklin-1
+623,1977-78,LSU,SEC,27,,859,.630,,,.352,,,,,,,,macklru01,rudy-macklin-1
+624,1978-79,LSU,SEC,2,,52,.626,,,.313,,,,,,,,macklru01,rudy-macklin-1
+625,1979-80,LSU,SEC,32,,1038,.626,,,.366,,,,,,,,macklru01,rudy-macklin-1
+626,1980-81,LSU,SEC,36,36,1147,.647,,,.504,,,,,,,,macklru01,rudy-macklin-1
+627,1978-79,Kansas,Big 8,25,,303,.380,,,.216,,,,,,,,magleda01,dave-magley-1
+628,1979-80,Kansas,Big 8,29,,600,.512,,,.168,,,,,,,,magleda01,dave-magley-1
+629,1980-81,Kansas,Big 8,32,,986,.509,,,.243,,,,,,,,magleda01,dave-magley-1
+630,1981-82,Kansas,Big 8,27,,1053,.522,,,.310,,,,,,,,magleda01,dave-magley-1
+631,1979-80,Mississippi State,SEC,27,,781,.489,,,.168,,,,,,10.6,,malonje01,jeff-malone-1
+632,1980-81,Mississippi State,SEC,27,,999,.535,,,.286,,,,,,9.8,,malonje01,jeff-malone-1
+633,1981-82,Mississippi State,SEC,27,,1001,.566,,,.171,,,,,,8.1,,malonje01,jeff-malone-1
+634,1982-83,Mississippi State,SEC,29,,1070,.568,,,.262,,,,,,6.7,,malonje01,jeff-malone-1
+635,1982-83,Louisiana Tech,Southland,28,28,894,.599,,,.654,,,,,,15.7,,malonka01,karl-malone-1
+636,1983-84,Louisiana Tech,Southland,32,31,1011,.608,,,.618,,,,,,16.1,,malonka01,karl-malone-1
+637,1984-85,Louisiana Tech,Southland,32,32,926,.551,,,.426,,,,,,14.7,,malonka01,karl-malone-1
+638,1979-80,Utah,WAC,28,0,457,.457,,,.366,,,,,,26.1,,mannipa01,pace-mannion-1
+639,1980-81,Utah,WAC,28,28,902,.481,,,.485,,,,,,21.8,,mannipa01,pace-mannion-1
+640,1981-82,Utah,WAC,28,28,1061,.472,,,.369,,,,,,22.6,,mannipa01,pace-mannion-1
+641,1982-83,Utah,WAC,32,32,1195,.543,,,.401,,,,,,16.7,,mannipa01,pace-mannion-1
+642,1981-82,Georgetown,Big East,35,0,468,.534,,,.587,,,,,,19.5,,martibi01,bill-martin-1
+643,1982-83,Georgetown,Big East,32,32,917,.551,,,.392,,,,,,16.1,,martibi01,bill-martin-1
+644,1983-84,Georgetown,Big East,37,6,800,.556,,,.569,,,,,,12.5,,martibi01,bill-martin-1
+645,1984-85,Georgetown,Big East,38,,1147,.562,,,.324,,,,,,14.4,,martibi01,bill-martin-1
+646,1981-82,Kansas,Big 8,25,3,389,.506,,,.329,,,,,,,,martibr01,brian-martin-1
+647,1982-83,Kansas,Big 8,27,12,459,.524,,,.513,,,,,,,,martibr01,brian-martin-1
+648,1983-84,Kansas,Big 8,32,2,542,.537,,,.429,,,,,,16.1,,martibr01,brian-martin-1
+649,1982-83,St. Joseph's,A-10,28,28,934,.568,,,.562,,,,,,30.0,,martima01,maurice-martin-1
+650,1983-84,St. Joseph's,A-10,28,26,928,.595,,,.249,,,,,,6.6,,martima01,maurice-martin-1
+651,1984-85,St. Joseph's,A-10,28,27,917,.562,.523,.162,.359,,,,,,6.2,,martima01,maurice-martin-1
+652,1985-86,St. Joseph's,A-10,30,28,997,.541,,,.453,,,,,,,,martima01,maurice-martin-1
+653,1981-82,Villanova,Big East,30,,828,.615,,,.236,,,,,,19.6,,mccladw01,dwayne-mcclain-1
+654,1982-83,Villanova,Big East,29,,744,.556,,,.265,,,,,,13.8,,mccladw01,dwayne-mcclain-1
+655,1983-84,Villanova,Big East,31,,973,.615,,,.325,,,,,,16.4,,mccladw01,dwayne-mcclain-1
+656,1984-85,Villanova,Big East,35,,1114,.611,,,.382,,,,,,16.7,,mccladw01,dwayne-mcclain-1
+657,1980-81,Michigan,Big Ten,30,0,524,.576,,,.566,,,,,,23.4,,mccorti01,tim-mccormick-1
+658,1982-83,Michigan,Big Ten,28,26,762,.605,,,.609,,,,,,14.5,,mccorti01,tim-mccormick-1
+659,1983-84,Michigan,Big Ten,32,29,960,.614,,,.823,,,,,,14.2,,mccorti01,tim-mccormick-1
+660,1979-80,Louisville,Metro,36,,1178,.570,,,.518,,,,,,27.7,,mccraro01,rodney-mccray-1
+661,1980-81,Louisville,Metro,30,,917,.608,,,.464,,,,,,17.4,,mccraro01,rodney-mccray-1
+662,1981-82,Louisville,Metro,33,33,961,.600,,,.429,,,,,,22.1,,mccraro01,rodney-mccray-1
+663,1982-83,Louisville,Metro,36,36,1197,.623,,,.479,,,,,,18.5,,mccraro01,rodney-mccray-1
+664,1978-79,Louisville,Metro,32,,954,.525,,,.416,,,,,,25.1,,mccrasc01,scooter-mccray-1
+665,1979-80,Louisville,Metro,3,,58,.505,,,.545,,,,,,41.9,,mccrasc01,scooter-mccray-1
+666,1980-81,Louisville,Metro,30,,682,.443,,,.382,,,,,,21.9,,mccrasc01,scooter-mccray-1
+667,1981-82,Louisville,Metro,30,11,472,.437,,,.354,,,,,,27.7,,mccrasc01,scooter-mccray-1
+668,1982-83,Louisville,Metro,36,36,1165,.493,,,.341,,,,,,19.3,,mccrasc01,scooter-mccray-1
+669,1981-82,Wichita State,MVC,28,2,378,.524,,,.319,,,,,,13.9,,mcdanxa01,xavier-mcdaniel-1
+670,1982-83,Wichita State,MVC,28,28,987,.589,,,.394,,,,,,14.7,,mcdanxa01,xavier-mcdaniel-1
+671,1983-84,Wichita State,MVC,30,30,1130,.588,,,.387,,,,,,15.8,,mcdanxa01,xavier-mcdaniel-1
+672,1984-85,Wichita State,MVC,31,31,1143,.575,,,.357,,,,,,11.9,,mcdanxa01,xavier-mcdaniel-1
+673,1980-81,UC-Irvine,PCAA,27,,899,.536,,,.247,,,,,,16.9,,mcdonbe01,ben-mcdonald-1
+674,1981-82,UC-Irvine,PCAA,30,,1012,.575,,,.286,,,,,,23.4,,mcdonbe01,ben-mcdonald-1
+675,1982-83,UC-Irvine,PCAA,28,28,953,.546,,,.295,,,,,,18.2,,mcdonbe01,ben-mcdonald-1
+676,1983-84,UC-Irvine,PCAA,29,29,1001,.534,,,.282,,,,,,15.4,,mcdonbe01,ben-mcdonald-1
+677,1977-78,Memphis,Metro,14,,88,.676,,,.786,,,,,,,,mcdowha01,hank-mcdowell-1
+678,1978-79,Memphis,Metro,28,,637,.513,,,.439,,,,,,,,mcdowha01,hank-mcdowell-1
+679,1979-80,Memphis,Metro,27,,900,.476,,,.422,,,,,,,,mcdowha01,hank-mcdowell-1
+680,1980-81,Memphis,Metro,27,,934,.554,,,.602,,,,,,,,mcdowha01,hank-mcdowell-1
+681,1977-78,Michigan,Big Ten,27,27,890,.534,,,.278,,,,,,,,mcgeemi01,mike-mcgee-1
+682,1978-79,Michigan,Big Ten,27,25,890,.488,,,.322,,9.5,7.4,,0.2,18.0,,mcgeemi01,mike-mcgee-1
+683,1979-80,Michigan,Big Ten,30,30,1086,.504,,,.272,,,,,,10.7,,mcgeemi01,mike-mcgee-1
+684,1980-81,Michigan,Big Ten,30,30,1070,.538,,,.282,,,,,,11.1,,mcgeemi01,mike-mcgee-1
+685,1977-78,Creighton,MVC,28,,739,.493,,,.229,,,,,,18.7,,mckenke01,kevin-mckenna-1
+686,1978-79,Creighton,MVC,27,,778,.497,,,.291,,,,,,17.9,,mckenke01,kevin-mckenna-1
+687,1979-80,Creighton,MVC,28,28,868,.550,,,.343,,,,,,16.6,,mckenke01,kevin-mckenna-1
+688,1980-81,Creighton,MVC,30,30,,.524,,,.348,,,,,,16.1,,mckenke01,kevin-mckenna-1
+689,1981-82,Loyola Marymount,WCAC,27,,805,.515,,,.125,,,,,,13.8,,mckenfo01,forrest-mckenzie-1
+690,1982-83,Loyola Marymount,WCAC,27,,947,.522,,,.204,,,,,,,,mckenfo01,forrest-mckenzie-1
+691,1983-84,Loyola Marymount,WCAC,27,,993,.515,,,.223,,,,,,9.9,,mckenfo01,forrest-mckenzie-1
+692,1985-86,Loyola Marymount,WCAC,29,28,1010,.535,,,.171,,,,,,11.5,,mckenfo01,forrest-mckenzie-1
+693,1984-85,North Carolina State,ACC,33,32,973,.500,,,.459,,,,,,25.4,,mcmilna01,nate-mcmillan-1
+694,1985-86,North Carolina State,ACC,34,34,1208,.525,,,.344,,,,,,24.3,,mcmilna01,nate-mcmillan-1
+695,1977-78,Santa Clara,WCAC,29,,,.602,,,.428,,,,,,,,mcnamma01,mark-mcnamara-1
+696,1978-79,Santa Clara,WCAC,25,,652,.581,,,.462,,,,,,,,mcnamma01,mark-mcnamara-1
+697,1980-81,University of California,Pac-10,26,,868,.598,,,.569,,,,,,19.4,,mcnamma01,mark-mcnamara-1
+698,1981-82,University of California,Pac-10,27,,996,.668,,,.736,,,,,,13.3,,mcnamma01,mark-mcnamara-1
+699,1981-82,North Carolina State,ACC,32,,553,.554,,,1.045,,,,,,22.4,,mcqueco01,cozell-mcqueen-1
+700,1982-83,North Carolina State,ACC,36,,885,.451,,,.268,,,,,,20.6,,mcqueco01,cozell-mcqueen-1
+701,1983-84,North Carolina State,ACC,33,33,1072,.535,,,.561,,,,,,16.8,,mcqueco01,cozell-mcqueen-1
+702,1984-85,North Carolina State,ACC,33,33,1113,.571,,,.464,,,,,,17.0,,mcqueco01,cozell-mcqueen-1
+703,1982-83,Illinois,Big Ten,29,0,237,.500,.466,.000,.233,,,,,,18.2,,meentsc01,scott-meents-1
+704,1983-84,Illinois,Big Ten,28,6,465,.484,,,.246,,,,,,19.4,,meentsc01,scott-meents-1
+705,1984-85,Illinois,Big Ten,35,10,652,.501,,,.211,,,,,,18.9,,meentsc01,scott-meents-1
+706,1985-86,Illinois,Big Ten,32,15,507,.549,,,.203,,,,,,21.7,,meentsc01,scott-meents-1
+707,1979-80,Houston,SWC,27,13,468,.529,,,.496,,,,,,11.6,,michela01,larry-micheaux-1
+708,1980-81,Houston,SWC,29,27,860,.596,,,.429,,,,,,16.3,,michela01,larry-micheaux-1
+709,1981-82,Houston,SWC,33,33,1084,.605,,,.324,,,,,,16.3,,michela01,larry-micheaux-1
+710,1982-83,Houston,SWC,34,,1006,.589,,,.445,,,,,,15.0,,michela01,larry-micheaux-1
+711,1979-80,Kentucky,SEC,34,18,691,.517,,,.345,,,,,,31.2,,minnidi01,dirk-minniefield-1
+712,1980-81,Kentucky,SEC,28,28,890,.599,,,.296,,5.3,30.4,,0.3,22.6,,minnidi01,dirk-minniefield-1
+713,1981-82,Kentucky,SEC,30,30,1034,.560,,,.442,,5.9,,,0.1,22.3,,minnidi01,dirk-minniefield-1
+714,1982-83,Kentucky,SEC,31,31,951,.577,,,.342,,,,,,32.0,,minnidi01,dirk-minniefield-1
+715,1981-82,Mercer,A-Sun,27,,,.533,,,.342,,,,,,10.4,,mitchsa01,sam-mitchell-1
+716,1982-83,Mercer,A-Sun,28,,964,.567,,,.391,,,,,,13.6,,mitchsa01,sam-mitchell-1
+717,1983-84,Mercer,A-Sun,26,,935,.553,,,.359,,,,,,11.2,,mitchsa01,sam-mitchell-1
+718,1984-85,Mercer,A-Sun,31,31,1157,.563,,,.435,,,,,,8.3,,mitchsa01,sam-mitchell-1
+719,1978-79,Wake Forest,ACC,27,16,624,.600,,,.628,,,,,,12.5,,morgagu01,guy-morgan-1
+720,1979-80,Wake Forest,ACC,27,26,791,.624,,,.635,,,,,,16.3,,morgagu01,guy-morgan-1
+721,1980-81,Wake Forest,ACC,29,29,766,.598,,,.492,,,,,,14.0,,morgagu01,guy-morgan-1
+722,1981-82,Wake Forest,ACC,30,29,767,.605,,,.876,,,,,,17.1,,morgagu01,guy-morgan-1
+723,1978-79,Northeastern,Ind,26,,478,.488,,,.291,,,,,,,,mosspe01,perry-moss-1
+724,1979-80,Northeastern,ECACN,27,,666,.502,,,.344,,,,,,18.9,,mosspe01,perry-moss-1
+725,1980-81,Northeastern,ECACN,30,,953,.520,,,.403,,,,,,,,mosspe01,perry-moss-1
+726,1981-82,Northeastern,ECACN,30,,1127,.531,,,.367,,,,,,,,mosspe01,perry-moss-1
+727,1981-82,St. John's (NY),Big East,30,30,1061,.597,,,.570,,,,,,18.9,,mullich01,chris-mullin-1
+728,1982-83,St. John's (NY),Big East,33,33,1210,.644,,,.499,,,,,,16.1,,mullich01,chris-mullin-1
+729,1983-84,St. John's (NY),Big East,27,27,1070,.641,,,.475,,,,,,17.2,,mullich01,chris-mullin-1
+730,1984-85,St. John's (NY),Big East,35,,1327,.585,,,.483,,,,,,13.2,,mullich01,chris-mullin-1
+731,1980-81,Boston College,Big East,30,26,676,.549,,,.443,,,,,,15.0,,murphja01,jay-murphy-1
+732,1981-82,Boston College,Big East,31,27,735,.584,,,.623,,,,,,12.3,,murphja01,jay-murphy-1
+733,1982-83,Boston College,Big East,32,,957,.533,,,.347,,,,,,10.2,,murphja01,jay-murphy-1
+734,1983-84,Boston College,Big East,30,,958,.526,,,.364,,,,,,7.7,,murphja01,jay-murphy-1
+735,1982-83,UC-Irvine,PCAA,28,14,704,.564,,,.541,,,,,,20.9,,murphto01,tod-murphy-1
+736,1983-84,UC-Irvine,PCAA,29,29,872,.629,,,.504,,,,,,14.0,,murphto01,tod-murphy-1
+737,1984-85,UC-Irvine,PCAA,30,30,1047,.619,.560,.009,.450,,,,,,14.5,,murphto01,tod-murphy-1
+738,1985-86,UC-Irvine,PCAA,30,,1116,.611,.560,.003,.646,,,,,,13.5,,murphto01,tod-murphy-1
+739,1984-85,Little Rock,A-Sun,30,28,1037,.506,,,.465,,,,,,19.5,,myerspe01,pete-myers-1
+740,1985-86,Little Rock,A-Sun,34,33,1142,.590,,,.608,,,,,,14.4,,myerspe01,pete-myers-1
+741,1977-78,Clemson,ACC,25,5,273,.469,,,.227,,,,,,20.9,,nancela01,larry-nance-1
+742,1978-79,Clemson,ACC,29,28,837,.537,,,.292,,,,,,20.0,,nancela01,larry-nance-1
+743,1979-80,Clemson,ACC,32,32,961,.536,,,.485,,,,,,12.6,,nancela01,larry-nance-1
+744,1980-81,Clemson,ACC,31,27,887,.595,,,.322,,,,,,14.1,,nancela01,larry-nance-1
+745,1978-79,Kansas State,Big 8,28,24,,.477,,,.267,,,,,,,,nealyed01,ed-nealy-1
+746,1979-80,Kansas State,Big 8,31,30,1002,.521,,,.434,,,,,,,,nealyed01,ed-nealy-1
+747,1980-81,Kansas State,Big 8,33,33,1163,.553,,,.284,,,,,,,,nealyed01,ed-nealy-1
+748,1981-82,Kansas State,Big 8,31,31,1113,.583,,,.502,,,,,,,,nealyed01,ed-nealy-1
+749,1978-79,North Carolina State,ACC,19,,,.442,,,.750,,,,,,,,nevitch01,chuck-nevitt-1
+750,1979-80,North Carolina State,ACC,19,,,.541,,,.435,,,,,,,,nevitch01,chuck-nevitt-1
+751,1980-81,North Carolina State,ACC,21,,,.542,,,.885,,,,,,,,nevitch01,chuck-nevitt-1
+752,1981-82,North Carolina State,ACC,31,,,.589,,,.479,,,,,,,,nevitch01,chuck-nevitt-1
+753,1982-83,Richmond,ECACS,28,,763,.563,,,.371,,,,,,15.3,,newmajo01,johnny-newman-1
+754,1983-84,Richmond,ECACS,32,,1189,.574,,,.381,,,,,,10.0,,newmajo01,johnny-newman-1
+755,1984-85,Richmond,ECACS,32,,1128,.590,,,.369,,,,,,12.7,,newmajo01,johnny-newman-1
+756,1985-86,Richmond,CAA,30,,1123,.577,,,.352,,,,,,9.1,,newmajo01,johnny-newman-1
+757,1978-79,Jackson State,SWAC,27,,,.574,,,.552,,,,,,,,norriau01,audie-norris-1
+758,1979-80,Jackson State,SWAC,28,,948,.595,,,.519,,,,,,,,norriau01,audie-norris-1
+759,1980-81,Jackson State,SWAC,29,,925,.601,,,.537,,,,,,,,norriau01,audie-norris-1
+760,1981-82,Jackson State,SWAC,28,28,935,.571,,,.643,,,,,,18.7,,norriau01,audie-norris-1
+761,1981-82,Texas Christian,SWC,14,0,60,.472,,,.286,,,,,,11.2,,nuttde01,dennis-nutt-1
+762,1982-83,Texas Christian,SWC,32,11,674,.553,,,.132,,,,,,16.8,,nuttde01,dennis-nutt-1
+763,1983-84,Texas Christian,SWC,28,28,1050,.531,,,.181,,,,,,11.1,,nuttde01,dennis-nutt-1
+764,1984-85,Texas Christian,SWC,28,,1010,.570,,,.211,,,,,,,,nuttde01,dennis-nutt-1
+765,1981-82,Houston,SWC,29,6,529,.603,,,.687,,,,,,17.1,,olajuha01,hakeem-olajuwon-1
+766,1982-83,Houston,SWC,34,,932,.614,,,.471,,,,,,17.1,,olajuha01,hakeem-olajuwon-1
+767,1983-84,Houston,SWC,37,,1260,.647,,,.629,,,,,,11.3,,olajuha01,hakeem-olajuwon-1
+768,1979-80,Notre Dame,Ind,27,1,459,.552,,,.632,,,,,,,,paxsojo01,john-paxson-1
+769,1980-81,Notre Dame,Ind,29,29,1062,.551,,,.408,,,,,,,,paxsojo01,john-paxson-1
+770,1981-82,Notre Dame,Ind,27,27,1055,.566,,,.269,,,,,,,,paxsojo01,john-paxson-1
+771,1982-83,Notre Dame,Ind,29,29,1082,.558,,,.243,,,,,,,,paxsojo01,john-paxson-1
+772,1980-81,UNC,ACC,37,,1115,.662,,,.645,,,,,,,,perkisa01,sam-perkins-1
+773,1981-82,UNC,ACC,32,,1141,.620,,,.472,,,,,,12.6,,perkisa01,sam-perkins-1
+774,1982-83,UNC,ACC,35,,1174,.595,.541,.116,.428,,,,,,12.5,,perkisa01,sam-perkins-1
+775,1983-84,UNC,ACC,31,,1029,.654,,,.547,,,,,,12.8,,perkisa01,sam-perkins-1
+776,1982-83,Auburn,SEC,28,20,636,.558,,,.151,,,,,,13.7,,persoch01,chuck-person-1
+777,1983-84,Auburn,SEC,31,31,1079,.566,,,.243,,,,,,13.0,,persoch01,chuck-person-1
+778,1984-85,Auburn,SEC,34,,1240,.562,,,.174,,,,,,10.7,,persoch01,chuck-person-1
+779,1985-86,Auburn,SEC,33,33,1178,.546,,,.188,,,,,,10.2,,persoch01,chuck-person-1
+780,1980-81,Minnesota,Big Ten,22,,110,.484,,,.154,,,,,,20.1,,peterji01,jim-petersen-1
+781,1981-82,Minnesota,Big Ten,21,,252,.496,,,.423,,,,,,33.9,,peterji01,jim-petersen-1
+782,1982-83,Minnesota,Big Ten,29,,696,.561,,,.188,,,,,,22.5,,peterji01,jim-petersen-1
+783,1983-84,Minnesota,Big Ten,24,,720,.654,,,.300,,,,,,23.7,,peterji01,jim-petersen-1
+784,1981-82,Alcorn State,SWAC,29,28,745,.506,,,.339,,,,,,14.1,,phelpmi01,michael-phelps-1
+785,1982-83,Alcorn State,SWAC,30,,861,.518,,,.385,,,,,,,,phelpmi01,michael-phelps-1
+786,1983-84,Alcorn State,SWAC,25,21,683,.584,,,.569,,,,,,15.0,,phelpmi01,michael-phelps-1
+787,1984-85,Alcorn State,SWAC,30,,841,.528,,,.356,,,,,,,,phelpmi01,michael-phelps-1
+788,1978-79,Alabama,SEC,33,33,1001,.619,,,.323,,,,,,12.9,,philled01,eddie-phillips-1
+789,1979-80,Alabama,SEC,30,30,1064,.537,,,.478,,,,,,12.7,,philled01,eddie-phillips-1
+790,1980-81,Alabama,SEC,29,29,896,.530,,,.478,,,,,,15.0,,philled01,eddie-phillips-1
+791,1981-82,Alabama,SEC,30,,926,.557,,,.392,,,,,,,,philled01,eddie-phillips-1
+792,1979-80,Rice,SWC,26,,878,.515,,,.311,,,,,,14.8,,piercri01,ricky-pierce-1
+793,1980-81,Rice,SWC,26,,901,.543,,,.268,,,,,,,,piercri01,ricky-pierce-1
+794,1981-82,Rice,SWC,30,,1104,.559,,,.363,,,,,,8.5,,piercri01,ricky-pierce-1
+795,1981-82,Villanova,Big East,32,,1083,.665,,,.610,,,,,,16.9,,pincked01,ed-pinckney-1
+796,1982-83,Villanova,Big East,31,,1029,.629,,,.753,,,,,,21.6,,pincked01,ed-pinckney-1
+797,1983-84,Villanova,Big East,31,,1068,.640,,,.828,,,,,,14.6,,pincked01,ed-pinckney-1
+798,1984-85,Villanova,Big East,35,,1186,.650,,,.892,,,,,,17.0,,pincked01,ed-pinckney-1
+799,1979-80,Villanova,EAA,31,,951,.610,,,.546,,,,,,13.8,,pinonjo01,john-pinone-1
+800,1980-81,Villanova,Big East,31,,1149,.617,,,.619,,,,,,17.8,,pinonjo01,john-pinone-1
+801,1981-82,Villanova,Big East,32,,1142,.620,,,.697,,,,,,12.3,,pinonjo01,john-pinone-1
+802,1982-83,Villanova,Big East,32,,1088,.626,,,.712,,,,,,14.3,,pinonjo01,john-pinone-1
+803,1978-79,La Salle,ECC,12,,,.369,,,.750,,,,,,,,piotrto01,tom-piotrowski-1
+804,1980-81,La Salle,ECC,27,,,.522,,,.285,,,,,,,,piotrto01,tom-piotrowski-1
+805,1981-82,La Salle,ECC,29,,,.532,,,.337,,,,,,,,piotrto01,tom-piotrowski-1
+806,1982-83,La Salle,ECC,32,26,772,.542,,,.390,,,,,,13.3,,piotrto01,tom-piotrowski-1
+807,1980-81,Maryland,ACC,31,2,553,.671,,,.532,,,,,,,,pittmch01,charles-pittman-1
+808,1981-82,Maryland,ACC,24,23,828,.645,,,.701,,,,,,18.9,,pittmch01,charles-pittman-1
+809,1980-81,Boston University,ECACN,26,13,311,.550,,,.547,,,,,,18.9,,plummga01,gary-plummer-1
+810,1981-82,Boston University,ECACN,10,10,254,.524,,,.264,,,,,,19.0,,plummga01,gary-plummer-1
+811,1982-83,Boston University,ECACN,27,27,800,.512,,,.285,,,,,,16.0,,plummga01,gary-plummer-1
+812,1983-84,Boston University,ECACN,27,,840,.551,,,.417,,,,,,17.1,,plummga01,gary-plummer-1
+813,1981-82,UNLV,Ind,27,5,607,.564,,,.626,,,,,,,,poleedw01,dwayne-polee-1
+814,1982-83,Pepperdine,WCAC,,,,,,,,,,,,,,,poleedw01,dwayne-polee-1
+815,1983-84,Pepperdine,WCAC,27,,715,.548,,,.585,,,,,,17.1,,poleedw01,dwayne-polee-1
+816,1984-85,Pepperdine,WCAC,32,32,1062,.543,,,.493,,,,,,17.5,,poleedw01,dwayne-polee-1
+817,1985-86,Pepperdine,WCAC,30,,946,.582,,,.456,,,,,,17.7,,poleedw01,dwayne-polee-1
+818,1983-84,Virginia,ACC,33,25,866,.565,,,.545,,,,,,14.2,,polynol01,olden-polynice-1
+819,1984-85,Virginia,ACC,32,29,1095,.609,,,.588,,,,,,21.9,,polynol01,olden-polynice-1
+820,1985-86,Virginia,ACC,30,30,1074,.593,,,.569,,13.8,2.8,,2.2,17.6,23.1,polynol01,olden-polynice-1
+821,1980-81,Tulsa,MVC,33,32,1050,.497,,,.396,,,,,,24.5,,presspa01,paul-pressey-1
+822,1981-82,Tulsa,MVC,30,30,973,.586,,,.476,,,,,,24.1,,presspa01,paul-pressey-1
+823,1982-83,Boston College,Big East,31,,741,.458,,,.491,,,,,,,,pressdo01,dominic-pressley-1
+824,1983-84,Boston College,Big East,30,,660,.559,,,.356,,,,,,,,pressdo01,dominic-pressley-1
+825,1984-85,Boston College,Big East,31,,929,.563,,,.333,,,,,,,,pressdo01,dominic-pressley-1
+826,1985-86,Boston College,Big East,27,27,886,.539,,,.355,,,,,,18.2,,pressdo01,dominic-pressley-1
+827,1982-83,Villanova,Big East,32,,681,.394,,,.141,,,,,,,,pressha01,harold-pressley-1
+828,1983-84,Villanova,Big East,31,,1126,.543,,,.389,,,,,,,,pressha01,harold-pressley-1
+829,1984-85,Villanova,Big East,35,,1191,.518,,,.397,,,,,,,,pressha01,harold-pressley-1
+830,1985-86,Villanova,Big East,37,,1288,.565,,,.507,,,,,,,,pressha01,harold-pressley-1
+831,1982-83,Georgia Tech,ACC,28,28,1020,.554,.514,.359,.229,,,,,,15.8,,pricema01,mark-price-1
+832,1983-84,Georgia Tech,ACC,29,29,1078,.544,,,.227,,,,,,15.1,,pricema01,mark-price-1
+833,1984-85,Georgia Tech,ACC,35,35,1302,.540,,,.353,,3.4,22.9,,0.1,13.2,,pricema01,mark-price-1
+834,1985-86,Georgia Tech,ACC,34,34,1204,.579,,,.329,,,,,,14.6,,pricema01,mark-price-1
+835,1977-78,Oregon State,Pac-8,27,,818,.530,,,.272,,,,,,25.2,,radfoma01,mark-radford-1
+836,1978-79,Oregon State,Pac-10,28,,849,.564,,,.446,,,,,,21.7,,radfoma01,mark-radford-1
+837,1979-80,Oregon State,Pac-10,30,,957,.589,,,.376,,,,,,,,radfoma01,mark-radford-1
+838,1980-81,Oregon State,Pac-10,28,,900,.549,,,.391,,,,,,15.6,,radfoma01,mark-radford-1
+839,1977-78,South Alabama,Sun Belt,28,,676,.440,,,.353,,,,,,46.8,,rainsed01,ed-rains-1
+840,1978-79,South Alabama,Sun Belt,27,,961,.545,,,.500,,,,,,,,rainsed01,ed-rains-1
+841,1979-80,South Alabama,Sun Belt,29,,1010,.558,,,.552,,,,,,11.7,,rainsed01,ed-rains-1
+842,1980-81,South Alabama,Sun Belt,31,,1065,.558,,,.521,,,,,,,,rainsed01,ed-rains-1
+843,1981-82,Oregon,Pac-10,27,27,521,.521,,,.376,,,,,,23.8,,rasmubl01,blair-rasmussen-1
+844,1982-83,Oregon,Pac-10,27,27,819,.570,,,.392,,,,,,18.2,,rasmubl01,blair-rasmussen-1
+845,1983-84,Oregon,Pac-10,29,29,1017,.560,,,.297,,,,,,7.3,,rasmubl01,blair-rasmussen-1
+846,1984-85,Oregon,Pac-10,31,31,1081,.551,,,.396,,,,,,12.6,,rasmubl01,blair-rasmussen-1
+847,1978-79,Minnesota,Big Ten,27,,,.425,,,.171,,,,,,,,rautile01,leo-rautins-1
+848,1980-81,Syracuse,Big East,32,,,.530,,,.224,,,,,,,,rautile01,leo-rautins-1
+849,1981-82,Syracuse,Big East,22,,,.530,,,.269,,,,,,,,rautile01,leo-rautins-1
+850,1982-83,Syracuse,Big East,31,31,987,.552,,,.286,,,,,,23.5,,rautile01,leo-rautins-1
+851,1982-83,Michigan,Big Ten,28,22,586,.524,,,.370,,,,,,20.5,,rellfri01,richard-rellford-1
+852,1983-84,Michigan,Big Ten,33,28,698,.603,,,.341,,,,,,14.7,,rellfri01,richard-rellford-1
+853,1984-85,Michigan,Big Ten,30,30,732,.621,,,.409,,,,,,12.7,,rellfri01,richard-rellford-1
+854,1985-86,Michigan,Big Ten,33,33,782,.641,,,.454,,,,,,13.2,,rellfri01,richard-rellford-1
+855,1982-83,LSU,SEC,32,,888,.560,,,.602,,,,,,,,reynoje01,jerry-reynolds-1
+856,1983-84,LSU,SEC,29,28,899,.538,,,.515,,,,,,19.2,,reynoje01,jerry-reynolds-1
+857,1984-85,LSU,SEC,29,,803,.523,,,.420,,,,,,20.9,,reynoje01,jerry-reynolds-1
+858,1980-81,Marquette,Ind,31,,,.563,,,.362,,,,,,,,riverdo01,doc-rivers-1
+859,1981-82,Marquette,Ind,29,,,.480,,,.283,,,,,,,,riverdo01,doc-rivers-1
+860,1982-83,Marquette,Ind,29,,,.459,,,.255,,,,,,17.5,,riverdo01,doc-rivers-1
+861,1978-79,BYU,WAC,28,,861,.584,,,.364,,,,,,17.4,,roberfr01,fred-roberts-1
+862,1979-80,BYU,WAC,29,,891,.614,,,.381,,,,,,19.8,,roberfr01,fred-roberts-1
+863,1980-81,BYU,WAC,32,,1188,.631,,,.590,,,,,,17.9,,roberfr01,fred-roberts-1
+864,1981-82,BYU,WAC,30,,1118,.551,,,.527,,,,,,20.5,,roberfr01,fred-roberts-1
+865,1981-82,Arkansas,SWC,28,,495,.544,,,.365,,,,,,19.1,,roberal01,alvin-robertson-1
+866,1982-83,Arkansas,SWC,28,,915,.571,,,.391,,,,,,20.7,,roberal01,alvin-robertson-1
+867,1983-84,Arkansas,SWC,32,32,1109,.537,,,.485,,,,,,23.1,,roberal01,alvin-robertson-1
+868,1979-80,Alabama-Birmingham,Sun Belt,29,16,688,.563,,,.549,,,,,,13.4,,robinol01,oliver-robinson-1
+869,1980-81,Alabama-Birmingham,Sun Belt,32,32,1044,.525,,,.335,,,,,,10.7,,robinol01,oliver-robinson-1
+870,1981-82,Alabama-Birmingham,Sun Belt,31,31,1083,.566,,,.309,,,,,,10.2,,robinol01,oliver-robinson-1
+871,1981-82,Stanford,Pac-10,27,26,766,.601,,,.392,,,,,,,,rogerjo01,johnny-rogers-1
+872,1982-83,Stanford,Pac-10,28,8,671,.623,,,.304,,,,,,,,rogerjo01,johnny-rogers-1
+873,1984-85,UC-Irvine,PCAA,30,30,1045,.580,,,.378,,,,,,12.2,,rogerjo01,johnny-rogers-1
+874,1985-86,UC-Irvine,PCAA,29,,1030,.571,,,.338,,,,,,12.4,,rogerjo01,johnny-rogers-1
+875,1981-82,Wisconsin,Big Ten,25,2,330,.470,,,.176,,,,,,15.3,,rothsc01,scott-roth-1
+876,1982-83,Wisconsin,Big Ten,28,21,710,.436,,,.385,,,,,,23.6,,rothsc01,scott-roth-1
+877,1983-84,Wisconsin,Big Ten,28,28,973,.541,,,.316,,,,,,14.2,,rothsc01,scott-roth-1
+878,1984-85,Wisconsin,Big Ten,28,,927,.584,,,.427,,,,,,14.3,,rothsc01,scott-roth-1
+879,1981-82,Notre Dame,Ind,23,0,386,.504,,,.368,,,,,,,,rowanro01,ron-rowan-1
+880,1982-83,Notre Dame,Ind,13,0,113,.509,,,.200,,,,,,,,rowanro01,ron-rowan-1
+881,1984-85,St. John's (NY),Big East,28,,308,.517,,,.413,,,,,,22.6,,rowanro01,ron-rowan-1
+882,1985-86,St. John's (NY),Big East,36,36,1360,.566,,,.250,,,,,,15.7,,rowanro01,ron-rowan-1
+883,1980-81,Purdue,Big Ten,6,0,11,.539,,,.500,,,,,,,,rowinji01,jim-rowinski-1
+884,1981-82,Purdue,Big Ten,5,2,73,.419,,,.563,,,,,,,,rowinji01,jim-rowinski-1
+885,1982-83,Purdue,Big Ten,25,5,276,.484,,,.449,,,,,,,,rowinji01,jim-rowinski-1
+886,1983-84,Purdue,Big Ten,29,29,1045,.560,,,.519,,,,,,16.0,,rowinji01,jim-rowinski-1
+887,1981-82,Wake Forest,ACC,22,1,150,.360,,,.333,,,,,,28.7,,ruddde01,delaney-rudd-1
+888,1982-83,Wake Forest,ACC,32,32,1004,.572,.548,.090,.213,,,,,,14.4,,ruddde01,delaney-rudd-1
+889,1983-84,Wake Forest,ACC,31,31,1011,.561,,,.259,,,,,,12.4,,ruddde01,delaney-rudd-1
+890,1984-85,Wake Forest,ACC,29,29,1000,.494,,,.170,,,,,,10.3,,ruddde01,delaney-rudd-1
+891,1979-80,Houston,SWC,8,4,186,.473,,,.274,,,,,,21.1,,russewa01,walker-russell-1
+892,1980-81,Western Michigan,MAC,17,,,.493,,,.284,,,,,,,,russewa01,walker-russell-1
+893,1981-82,Western Michigan,MAC,29,,,.536,,,.295,,,,,,,,russewa01,walker-russell-1
+894,1982-83,Georgia Tech,ACC,27,27,829,.548,,,.773,,,,,,19.6,,sallejo01,john-salley-1
+895,1983-84,Georgia Tech,ACC,29,29,992,.616,,,.617,,,,,,22.6,,sallejo01,john-salley-1
+896,1984-85,Georgia Tech,ACC,35,35,1231,.635,,,.536,,12.8,14.6,,4.7,20.1,,sallejo01,john-salley-1
+897,1985-86,Georgia Tech,ACC,34,34,1145,.610,,,.599,,,,,,,,sallejo01,john-salley-1
+898,1979-80,Virginia,ACC,34,,1017,.566,,,.233,,,,,,19.1,,sampsra01,ralph-sampson-1
+899,1980-81,Virginia,ACC,33,31,1056,.577,,,.479,,,,,,15.1,,sampsra01,ralph-sampson-1
+900,1981-82,Virginia,ACC,32,31,1002,.578,,,.507,,,,,,12.0,,sampsra01,ralph-sampson-1
+901,1982-83,Virginia,ACC,33,33,995,.627,,,.432,,,,,,14.7,,sampsra01,ralph-sampson-1
+902,1978-79,UCLA,Pac-10,23,,138,.471,,,.421,,,,,,26.0,,sandemi01,mike-sanders-1
+903,1979-80,UCLA,Pac-10,32,,805,.613,,,.387,,,,,,15.3,,sandemi01,mike-sanders-1
+904,1980-81,UCLA,Pac-10,27,22,814,.603,,,.432,,,,,,15.6,,sandemi01,mike-sanders-1
+905,1981-82,UCLA,Pac-10,27,27,943,.551,,,.388,,,,,,,,sandemi01,mike-sanders-1
+906,1978-79,Loyola (IL),Ind,7,,,.336,,,.333,,,,,,,,sapplwa01,wayne-sappleton-1
+907,1979-80,Loyola (IL),MW City,29,,,.543,,,.379,,,,,,,,sapplwa01,wayne-sappleton-1
+908,1980-81,Loyola (IL),MW City,28,28,1069,.545,,,.430,,,,,,12.6,,sapplwa01,wayne-sappleton-1
+909,1981-82,Loyola (IL),MW City,29,29,1115,.583,,,.497,,,,,,15.2,,sapplwa01,wayne-sappleton-1
+910,1977-78,Syracuse,Ind,24,,,.620,,,.652,,,,,,,,schayda01,danny-schayes-1
+911,1978-79,Syracuse,Ind,29,,,.603,,,.564,,,,,,,,schayda01,danny-schayes-1
+912,1979-80,Syracuse,Big East,30,,,.582,,,.672,,,,,,,,schayda01,danny-schayes-1
+913,1980-81,Syracuse,Big East,34,,,.651,,,.709,,,,,,,,schayda01,danny-schayes-1
+914,1981-82,Washington,Pac-10,28,,314,.483,,,.644,,,,,,18.8,,schrede01,detlef-schrempf-1
+915,1982-83,Washington,Pac-10,31,,958,.515,,,.425,,,,,,19.2,,schrede01,detlef-schrempf-1
+916,1983-84,Washington,Pac-10,31,31,1186,.583,,,.492,,,,,,16.6,,schrede01,detlef-schrempf-1
+917,1984-85,Washington,Pac-10,32,,1180,.596,,,.512,,,,,,21.4,,schrede01,detlef-schrempf-1
+918,1978-79,Richmond,Ind,26,,492,.512,,,.302,,,,,,22.5,,schwejo01,john-schweitz-1
+919,1979-80,Richmond,ECACS,27,,817,.575,,,.254,,,,,,,,schwejo01,john-schweitz-1
+920,1980-81,Richmond,ECACS,27,,961,.570,,,.244,,,,,,17.3,,schwejo01,john-schweitz-1
+921,1981-82,Richmond,ECACS,29,,1029,.560,,,.247,,,,,,12.7,,schwejo01,john-schweitz-1
+922,1979-80,Arizona State,Pac-10,29,27,936,.530,,,.259,,,,,,16.2,,scottby01,byron-scott-1
+923,1980-81,Arizona State,Pac-10,28,28,1003,.530,,,.259,,,,,,12.6,,scottby01,byron-scott-1
+924,1982-83,Arizona State,Pac-10,33,33,1206,.556,,,.341,,,,,,14.6,,scottby01,byron-scott-1
+925,1982-83,LIU-Brooklyn,ECACM,20,,,.547,,,.361,,,,,,,,scurrca01,carey-scurry-1
+926,1983-84,LIU-Brooklyn,ECACM,31,,,.578,,,.420,,,,,,,,scurrca01,carey-scurry-1
+927,1984-85,LIU-Brooklyn,ECACM,28,,,.581,,,.484,,,,,,,,scurrca01,carey-scurry-1
+928,1981-82,Wisconsin,Big Ten,27,27,964,.494,,,.191,,,,,,14.7,,sellebr01,brad-sellers-1
+929,1982-83,Wisconsin,Big Ten,28,28,1009,.549,.508,.003,.266,,,,,,13.2,,sellebr01,brad-sellers-1
+930,1983-84,Ohio State,Big Ten,,,,,,,,,,,,,,,sellebr01,brad-sellers-1
+931,1984-85,Ohio State,Big Ten,30,28,979,.567,,,.353,,16.3,5.2,,6.1,13.9,,sellebr01,brad-sellers-1
+932,1985-86,Ohio State,Big Ten,33,33,1234,.545,,,.459,,,,,,13.9,,sellebr01,brad-sellers-1
+933,1981-82,Lamar,Southland,29,28,659,.546,,,.210,,,,,,19.6,,sewelto01,tom-sewell-1
+934,1982-83,Lamar,Southland,29,,883,.543,,,.230,,,,,,,,sewelto01,tom-sewell-1
+935,1983-84,Lamar,Southland,31,31,1091,.582,,,.310,,,,,,11.6,,sewelto01,tom-sewell-1
+936,1982-83,Minnesota,Big Ten,26,,156,.492,,,.500,,,,,,23.0,,shaskjo01,john-shasky-1
+937,1983-84,Minnesota,Big Ten,28,,728,.518,,,.476,,,,,,21.3,,shaskjo01,john-shasky-1
+938,1984-85,Minnesota,Big Ten,28,,952,.595,,,.410,,,,,,14.4,,shaskjo01,john-shasky-1
+939,1985-86,Minnesota,Big Ten,30,30,1069,.555,,,.455,,,,,,10.2,,shaskjo01,john-shasky-1
+940,1977-78,VCU,Ind,29,,968,.499,,,.337,,,,,,,,sheroed01,ed-sherod-1
+941,1978-79,VCU,Ind,25,,945,.500,,,.333,,,,,,,,sheroed01,ed-sherod-1
+942,1979-80,VCU,Sun Belt,30,,1075,.580,,,.384,,,,,,,,sheroed01,ed-sherod-1
+943,1980-81,VCU,Sun Belt,29,,1103,.524,,,.523,,,,,,,,sheroed01,ed-sherod-1
+944,1983-84,South Alabama,Sun Belt,30,12,929,.498,,,.277,,,,,,15.4,,shousde01,dexter-shouse-1
+945,1984-85,South Alabama,Sun Belt,28,24,963,.532,,,.230,,,,,,18.1,,shousde01,dexter-shouse-1
+946,1982-83,Alabama-Birmingham,Sun Belt,28,4,406,.436,.387,.019,.264,,,,,,16.0,,singlmc01,mckinley-singleton-1
+947,1983-84,Alabama-Birmingham,Sun Belt,34,33,1142,.478,,,.152,,,,,,7.3,,singlmc01,mckinley-singleton-1
+948,1980-81,Oregon State,Pac-10,28,,697,.557,,,.212,,,,,,,,sittoch01,charlie-sitton-1
+949,1981-82,Oregon State,Pac-10,30,,899,.643,,,.434,,,,,,,,sittoch01,charlie-sitton-1
+950,1982-83,Oregon State,Pac-10,30,,998,.633,,,.601,,,,,,,,sittoch01,charlie-sitton-1
+951,1983-84,Oregon State,Pac-10,29,,960,.615,,,.621,,,,,,,,sittoch01,charlie-sitton-1
+952,1982-83,Michigan State,Big Ten,30,27,1023,.578,.537,.175,.290,,,,,,26.4,,skilesc01,scott-skiles-1
+953,1983-84,Michigan State,Big Ten,28,28,983,.539,,,.373,,4.0,26.4,,0.0,23.6,,skilesc01,scott-skiles-1
+954,1984-85,Michigan State,Big Ten,29,29,1107,.542,,,.271,,,,,,18.3,,skilesc01,scott-skiles-1
+955,1985-86,Michigan State,Big Ten,31,31,1172,.610,,,.349,,,,,,12.9,,skilesc01,scott-skiles-1
+956,1978-79,Portland,WCAC,28,,775,.504,,,.332,,,,,,12.1,,slaugjo01,jose-slaughter-1
+957,1979-80,Portland,WCAC,28,,858,.542,,,.292,,,,,,14.0,,slaugjo01,jose-slaughter-1
+958,1980-81,Portland,WCAC,27,,940,.528,,,.266,,,,,,13.1,,slaugjo01,jose-slaughter-1
+959,1981-82,Portland,WCAC,27,,906,.520,,,.377,,,,,,13.6,,slaugjo01,jose-slaughter-1
+960,1980-81,Notre Dame,Ind,27,0,377,.538,,,.300,,,,,,,,slubyto01,tom-sluby-1
+961,1981-82,Notre Dame,Ind,11,11,357,.423,,,.384,,,,,,,,slubyto01,tom-sluby-1
+962,1982-83,Notre Dame,Ind,27,10,494,.556,,,.236,,,,,,,,slubyto01,tom-sluby-1
+963,1983-84,Notre Dame,Ind,33,,1099,.528,,,.329,,,,,,,,slubyto01,tom-sluby-1
+964,1982-83,Ohio State,Big Ten,22,2,108,.416,,,.333,,,,,,32.4,,smithcl01,clinton-smith-1
+965,1984-85,Cleveland State,Mid-Cont,29,28,834,.533,,,.281,,,,,,13.7,,smithcl01,clinton-smith-1
+966,1985-86,Cleveland State,Mid-Cont,33,,846,.581,,,.308,,,,,,11.1,,smithcl01,clinton-smith-1
+967,1978-79,Louisville,Metro,32,,622,.643,,,.665,,,,,,16.8,,smithde02,derek-smith-1
+968,1979-80,Louisville,Metro,36,,1222,.599,,,.403,,,,,,,,smithde02,derek-smith-1
+969,1980-81,Louisville,Metro,30,,964,.564,,,.388,,,,,,15.4,,smithde02,derek-smith-1
+970,1981-82,Louisville,Metro,33,33,950,.611,,,.468,,,,,,17.7,,smithde02,derek-smith-1
+971,1977-78,Ohio State,Big Ten,27,20,624,.466,,,.399,,11.1,2.5,,3.8,17.8,,smithji01,jim-smith-1
+972,1978-79,Ohio State,Big Ten,31,31,816,.493,,,.354,,13.8,2.9,,3.4,15.7,,smithji01,jim-smith-1
+973,1979-80,Ohio State,Big Ten,29,27,760,.562,,,.418,,,,,,15.6,,smithji01,jim-smith-1
+974,1980-81,Ohio State,Big Ten,27,26,612,.582,,,.381,,,,,,21.1,,smithji01,jim-smith-1
+975,1982-83,Loyola Marymount,WCAC,27,,651,.499,,,.259,,,,,,,,smithke03,keith-smith-2
+976,1983-84,Loyola Marymount,WCAC,27,,1022,.517,,,.253,,,,,,14.7,,smithke03,keith-smith-2
+977,1984-85,Loyola Marymount,WCAC,27,27,1028,.502,,,.267,,,,,,12.9,,smithke03,keith-smith-2
+978,1985-86,Loyola Marymount,WCAC,29,29,1005,.545,,,.361,,,,,,15.6,,smithke03,keith-smith-2
+979,1982-83,Jacksonville,Sun Belt,29,28,979,.502,.475,.019,.282,,,,,,13.7,,smithot01,otis-smith-1
+980,1983-84,Jacksonville,Sun Belt,28,28,1095,.524,,,.320,,,,,,12.7,,smithot01,otis-smith-1
+981,1984-85,Jacksonville,Sun Belt,29,29,1025,.521,,,.316,,,,,,17.6,,smithot01,otis-smith-1
+982,1985-86,Jacksonville,Sun Belt,31,31,1164,.517,,,.385,,,,,,16.4,,smithot01,otis-smith-1
+983,1981-82,Canisius,ECACN,22,12,311,.453,,,.259,,,,,,31.6,,smrekmi01,mike-smrek-1
+984,1982-83,Canisius,ECACN,28,22,560,.478,,,.491,,,,,,28.5,,smrekmi01,mike-smrek-1
+985,1983-84,Canisius,ECACN,30,,829,.629,,,.397,,,,,,20.2,,smrekmi01,mike-smrek-1
+986,1984-85,Canisius,ECACN,28,,812,.619,,,.517,,,,,,17.8,,smrekmi01,mike-smrek-1
+987,1984-85,Northern Arizona,Big Sky,26,,602,.591,,,.469,,,,,,19.1,,spencan01,andre-spencer-1
+988,1985-86,Northern Arizona,Big Sky,29,,864,.623,.612,.005,.417,,,,,,,,spencan01,andre-spencer-1
+989,1978-79,Howard,MEAC,28,,,.513,,,.312,,,,,,,,sprigla01,larry-spriggs-1
+990,1979-80,Howard,MEAC,28,,,.560,,,.319,,,,,,,,sprigla01,larry-spriggs-1
+991,1980-81,Howard,MEAC,27,,,.550,,,.329,,,,,,,,sprigla01,larry-spriggs-1
+992,1980-81,Temple,ECC,28,,,.568,,,.504,,,,,,,,stanste01,terence-stansbury-1
+993,1981-82,Temple,ECC,27,,,.558,,,.419,,,,,,,,stanste01,terence-stansbury-1
+994,1982-83,Temple,A-10,29,,,.506,.453,.205,.363,,,,,,,,stanste01,terence-stansbury-1
+995,1983-84,Temple,A-10,31,,1216,.513,,,.351,,,,,,,,stanste01,terence-stansbury-1
+996,1978-79,Georgia Tech,Ind,26,,346,.583,,,.593,,,,,,,,steppbr01,brook-steppe-1
+997,1979-80,Georgia Tech,ACC,26,,904,.569,,,.477,,,,,,,,steppbr01,brook-steppe-1
+998,1981-82,Georgia Tech,ACC,25,,,.570,,,.392,,,,,,,,steppbr01,brook-steppe-1
+999,1981-82,Iowa State,Big 8,26,20,767,.507,,,.338,,,,,,15.5,,steveba01,barry-stevens-1
+1000,1982-83,Iowa State,Big 8,28,28,917,.505,,,.284,,,,,,11.3,,steveba01,barry-stevens-1
+1001,1983-84,Iowa State,Big 8,29,29,1059,.515,,,.314,,,,,,11.7,,steveba01,barry-stevens-1
+1002,1984-85,Iowa State,Big 8,34,34,1211,.537,,,.282,,,,,,10.2,,steveba01,barry-stevens-1
+1003,1979-80,Missouri,Big 8,31,31,1034,.616,,,.422,,,,,,18.1,,stipast01,steve-stipanovich-1
+1004,1980-81,Missouri,Big 8,32,27,970,.559,,,.566,,,,,,16.4,,stipast01,steve-stipanovich-1
+1005,1981-82,Missouri,Big 8,31,31,956,.548,,,.374,,16.6,8.6,,2.5,18.8,,stipast01,steve-stipanovich-1
+1006,1982-83,Missouri,Big 8,34,34,1264,.577,,,.412,,,,,,14.1,,stipast01,steve-stipanovich-1
+1007,1980-81,Creighton,MVC,30,9,,.530,,,.387,,,,,,20.1,,stivral01,alex-stivrins-1
+1008,1981-82,Creighton,MVC,25,23,753,.436,,,.264,,,,,,28.2,,stivral01,alex-stivrins-1
+1009,1983-84,Colorado,Big 8,29,29,980,.560,,,.471,,,,,,20.3,,stivral01,alex-stivrins-1
+1010,1984-85,Colorado,Big 8,27,27,966,.538,,,.386,,,,,,15.2,,stivral01,alex-stivrins-1
+1011,1980-81,Gonzaga,WCAC,25,,235,.633,,,.778,,,,,,27.2,,stockjo01,john-stockton-1
+1012,1981-82,Gonzaga,WCAC,27,,1054,.603,,,.502,,,,,,25.3,,stockjo01,john-stockton-1
+1013,1982-83,Gonzaga,WCAC,27,27,1036,.571,,,.420,,,,,,22.4,,stockjo01,john-stockton-1
+1014,1983-84,Gonzaga,WCAC,28,,1053,.604,,,.458,,,,,,16.1,,stockjo01,john-stockton-1
+1015,1981-82,Iowa,Big Ten,29,,,.501,,,.602,,,,,,16.7,,stokegr01,greg-stokes-1
+1016,1982-83,Iowa,Big Ten,31,,1023,.565,,,.429,,,,,,9.3,,stokegr01,greg-stokes-1
+1017,1983-84,Iowa,Big Ten,28,27,1013,.600,,,.472,,,,,,19.6,,stokegr01,greg-stokes-1
+1018,1984-85,Iowa,Big Ten,32,,1148,.570,,,.355,,,,,,12.0,,stokegr01,greg-stokes-1
+1019,1979-80,Missouri,Big 8,31,,790,.497,,,.349,,,,,,23.0,,sundvjo01,jon-sundvold-1
+1020,1980-81,Missouri,Big 8,32,32,1134,.555,,,.283,,,,,,17.1,,sundvjo01,jon-sundvold-1
+1021,1981-82,Missouri,Big 8,31,31,1062,.540,,,.303,,4.0,15.6,,0.1,12.5,,sundvjo01,jon-sundvold-1
+1022,1982-83,Missouri,Big 8,34,34,1303,.560,,,.338,,,,,,13.1,,sundvjo01,jon-sundvold-1
+1023,1979-80,Pepperdine,WCAC,20,,259,.567,,,.505,,,,,,16.3,,suttlda01,dane-suttle-1
+1024,1980-81,Pepperdine,WCAC,28,,790,.575,,,.242,,,,,,17.7,,suttlda01,dane-suttle-1
+1025,1981-82,Pepperdine,WCAC,28,28,929,.576,,,.350,,,,,,17.4,,suttlda01,dane-suttle-1
+1026,1982-83,Pepperdine,WCAC,29,29,1019,.583,,,.342,,,,,,15.4,,suttlda01,dane-suttle-1
+1027,1982-83,Michigan,Big Ten,26,2,237,.442,,,.442,,,,,,20.6,,tarplro01,roy-tarpley-1
+1028,1983-84,Michigan,Big Ten,33,20,932,.568,,,.324,,,,,,13.8,,tarplro01,roy-tarpley-1
+1029,1984-85,Michigan,Big Ten,30,30,1018,.569,,,.376,,,,,,14.8,,tarplro01,roy-tarpley-1
+1030,1985-86,Michigan,Big Ten,33,31,1045,.588,,,.377,,,,,,16.1,,tarplro01,roy-tarpley-1
+1031,1978-79,Texas Tech,SWC,30,,650,.502,,,.311,,,,,,,,tayloje01,jeff-taylor-1
+1032,1979-80,Texas Tech,SWC,29,29,977,.575,,,.434,,,,,,17.7,,tayloje01,jeff-taylor-1
+1033,1980-81,Texas Tech,SWC,28,28,936,.561,,,.333,,,,,,14.8,,tayloje01,jeff-taylor-1
+1034,1981-82,Texas Tech,SWC,28,28,975,.559,,,.331,,,,,,15.2,,tayloje01,jeff-taylor-1
+1035,1978-79,Duke,ACC,30,,,.549,,,.344,,,,,,,,taylovi01,vince-taylor-1
+1036,1979-80,Duke,ACC,33,,1119,.513,,,.374,,,,,,19.4,,taylovi01,vince-taylor-1
+1037,1980-81,Duke,ACC,30,,1028,.525,,,.496,,7.1,12.2,,0.6,15.5,,taylovi01,vince-taylor-1
+1038,1981-82,Duke,ACC,27,27,1037,.549,,,.408,,8.7,12.1,,0.1,13.6,,taylovi01,vince-taylor-1
+1039,1978-79,Baylor,SWC,28,26,686,.561,,,.365,,,,,,14.2,,teaglte01,terry-teagle-1
+1040,1979-80,Baylor,SWC,27,27,,.595,,,.389,,,,,,13.6,,teaglte01,terry-teagle-1
+1041,1980-81,Baylor,SWC,27,,,.573,,,.378,,,,,,,,teaglte01,terry-teagle-1
+1042,1981-82,Baylor,SWC,28,,1105,.568,,,.301,,,,,,11.9,,teaglte01,terry-teagle-1
+1043,1979-80,Saint Mary's (CA),WCAC,27,22,567,.511,,,.292,,,,,,17.4,,thibepe01,peter-thibeaux-1
+1044,1980-81,Saint Mary's (CA),WCAC,27,15,651,.570,,,.314,,,,,,20.8,,thibepe01,peter-thibeaux-1
+1045,1981-82,Saint Mary's (CA),WCAC,27,27,891,.605,,,.348,,,,,,15.2,,thibepe01,peter-thibeaux-1
+1046,1982-83,Saint Mary's (CA),WCAC,25,25,835,.640,,,.483,,,,,,12.8,,thibepe01,peter-thibeaux-1
+1047,1979-80,Bradley,MVC,33,,1112,.453,,,.288,,,,,,,,thirdda01,david-thirdkill-1
+1048,1980-81,Bradley,MVC,26,,910,.580,,,.435,,,,,,17.0,,thirdda01,david-thirdkill-1
+1049,1981-82,Bradley,MVC,35,,1341,.598,,,.652,,,,,,0.0,,thirdda01,david-thirdkill-1
+1050,1979-80,Indiana,Big Ten,29,29,986,.567,,,.493,,,,,,26.9,,thomais01,isiah-thomas-1
+1051,1980-81,Indiana,Big Ten,34,34,1190,.592,,,.426,,,,,,18.9,,thomais01,isiah-thomas-1
+1052,1979-80,Indiana,Big Ten,21,2,189,.497,,,.591,,,,,,18.7,,thomaji01,jim-thomas-1
+1053,1980-81,Indiana,Big Ten,33,10,495,.542,,,.368,,,,,,22.8,,thomaji01,jim-thomas-1
+1054,1981-82,Indiana,Big Ten,29,25,928,.574,,,.345,,,,,,25.1,,thomaji01,jim-thomas-1
+1055,1982-83,Indiana,Big Ten,30,28,1020,.561,,,.345,,,,,,17.5,,thomaji01,jim-thomas-1
+1056,1980-81,Fresno State,PCAA,23,,259,.594,,,.906,,,,,,24.0,,thompbe01,bernard-thompson-1
+1057,1981-82,Fresno State,PCAA,30,,837,.628,,,.520,,,,,,17.2,,thompbe01,bernard-thompson-1
+1058,1982-83,Fresno State,PCAA,35,,1211,.626,.590,.000,.515,,12.6,13.0,,1.5,13.6,,thompbe01,bernard-thompson-1
+1059,1983-84,Fresno State,PCAA,33,,1151,.617,,,.515,,,,,,10.6,,thompbe01,bernard-thompson-1
+1060,1982-83,Louisville,Metro,36,0,710,.519,,,.380,,,,,,21.8,,thompbi01,billy-thompson-1
+1061,1983-84,Louisville,Metro,31,30,877,.556,,,.469,,,,,,28.5,,thompbi01,billy-thompson-1
+1062,1984-85,Louisville,Metro,37,36,1262,.556,,,.370,,,,,,24.3,,thompbi01,billy-thompson-1
+1063,1985-86,Louisville,Metro,39,39,1216,.610,,,.510,,,,,,22.9,,thompbi01,billy-thompson-1
+1064,1978-79,UConn,Ind,29,,991,.543,,,.494,,,,,,,,thompco01,corny-thompson-1
+1065,1979-80,UConn,Big East,29,28,993,.561,,,.464,,,,,,,,thompco01,corny-thompson-1
+1066,1980-81,UConn,Big East,29,29,1001,.567,,,.553,,,,,,13.5,,thompco01,corny-thompson-1
+1067,1981-82,UConn,Big East,27,27,977,.550,,,.392,,,,,,15.4,,thompco01,corny-thompson-1
+1068,1979-80,Texas,SWC,30,30,971,.593,,,.376,,,,,,,,thompla01,lasalle-thompson-1
+1069,1980-81,Texas,SWC,30,,1106,.600,,,.358,,,,,,,,thompla01,lasalle-thompson-1
+1070,1981-82,Texas,SWC,27,27,1042,.560,,,.442,,,,,,13.5,,thompla01,lasalle-thompson-1
+1071,1979-80,Tulane,Metro,26,,811,.492,,,.254,,,,,,14.4,,thomppa01,paul-thompson-1
+1072,1980-81,Tulane,Metro,27,26,965,.497,,,.299,,,,,,12.4,,thomppa01,paul-thompson-1
+1073,1981-82,Tulane,Metro,28,27,951,.528,,,.249,,,,,,14.8,,thomppa01,paul-thompson-1
+1074,1982-83,Tulane,Metro,31,29,1129,.550,,,.306,,,,,,12.4,,thomppa01,paul-thompson-1
+1075,1981-82,UC-Irvine,PCAA,29,,452,.553,,,.511,,,,,,28.7,,thornbo01,bob-thornton-1
+1076,1982-83,UC-Irvine,PCAA,27,24,639,.598,,,.542,,,,,,15.5,,thornbo01,bob-thornton-1
+1077,1983-84,UC-Irvine,PCAA,29,28,817,.628,,,.500,,,,,,16.3,,thornbo01,bob-thornton-1
+1078,1980-81,Providence,Big East,26,12,668,.543,,,.392,,,,,,15.4,,thorpot01,otis-thorpe-1
+1079,1981-82,Providence,Big East,27,27,942,.563,,,.406,,,,,,18.0,,thorpot01,otis-thorpe-1
+1080,1982-83,Providence,Big East,31,31,1041,.645,,,.430,,,,,,17.7,,thorpot01,otis-thorpe-1
+1081,1983-84,Providence,Big East,29,29,1051,.611,,,.861,,,,,,14.2,,thorpot01,otis-thorpe-1
+1082,1978-79,Cleveland State,Ind,25,,,.535,,,.276,,,,,,,,tillida01,darren-tillis-1
+1083,1979-80,Cleveland State,Ind,26,,,.565,,,.231,,,,,,,,tillida01,darren-tillis-1
+1084,1980-81,Cleveland State,Ind,27,,,.570,,,.156,,,,,,,,tillida01,darren-tillis-1
+1085,1981-82,Cleveland State,Ind,27,27,,.538,,,.253,,,,,,,,tillida01,darren-tillis-1
+1086,1982-83,Oklahoma,Big 8,33,,1138,.593,,,.362,,,,,,9.8,,tisdawa01,wayman-tisdale-1
+1087,1983-84,Oklahoma,Big 8,34,34,1232,.594,,,.443,,13.3,3.7,,3.8,8.0,,tisdawa01,wayman-tisdale-1
+1088,1984-85,Oklahoma,Big 8,37,35,1283,.605,,,.427,,,,,,8.7,,tisdawa01,wayman-tisdale-1
+1089,1977-78,Indiana,Big Ten,29,28,899,.478,,,.286,,,,,,16.9,,tolbera01,ray-tolbert-1
+1090,1978-79,Indiana,Big Ten,34,32,1122,.569,,,.330,,,,,,19.2,,tolbera01,ray-tolbert-1
+1091,1979-80,Indiana,Big Ten,29,28,928,.542,,,.311,,,,,,15.3,,tolbera01,ray-tolbert-1
+1092,1980-81,Indiana,Big Ten,35,35,1190,.614,,,.332,,,,,,16.9,,tolbera01,ray-tolbert-1
+1093,1983-84,Dayton,Ind,32,,963,.537,,,.366,,,,,,17.4,,toneyse01,sedric-toney-1
+1094,1984-85,Dayton,Ind,27,,834,.533,,,.420,,,,,,19.8,,toneyse01,sedric-toney-1
+1095,1977-78,Notre Dame,Ind,31,,643,.607,,,.437,,,,,,,,tripuke01,kelly-tripucka-1
+1096,1978-79,Notre Dame,Ind,29,29,807,.595,,,.545,,9.7,9.6,,0.4,10.5,,tripuke01,kelly-tripucka-1
+1097,1979-80,Notre Dame,Ind,23,23,691,.607,,,.559,,,,,,,,tripuke01,kelly-tripucka-1
+1098,1980-81,Notre Dame,Ind,29,29,919,.607,,,.475,,,,,,,,tripuke01,kelly-tripucka-1
+1099,1978-79,Minnesota,Big Ten,25,,,.486,,,.134,,,,,,,,tucketr01,trent-tucker-1
+1100,1979-80,Minnesota,Big Ten,32,,960,.509,,,.148,,,,,,,,tucketr01,trent-tucker-1
+1101,1980-81,Minnesota,Big Ten,29,,986,.545,,,.191,,,,,,15.6,,tucketr01,trent-tucker-1
+1102,1981-82,Minnesota,Big Ten,29,,1044,.543,,,.255,,,,,,15.2,,tucketr01,trent-tucker-1
+1103,1982-83,Memphis,Metro,31,,1006,.556,,,.273,,,,,,30.2,,turnean01,andre-turner-1
+1104,1983-84,Memphis,Metro,33,,1052,.494,,,.372,,,,,,26.3,,turnean01,andre-turner-1
+1105,1984-85,Memphis,Metro,34,,1157,.536,,,.362,,,,,,19.4,,turnean01,andre-turner-1
+1106,1985-86,Memphis,Metro,34,,1137,.520,,,.234,,,,,,19.0,,turnean01,andre-turner-1
+1107,1977-78,Ole Miss,SEC,27,,936,.450,,,.243,,,,,,,,turneel01,elston-turner-1
+1108,1978-79,Ole Miss,SEC,27,27,1035,.530,,,.227,,,,,,,,turneel01,elston-turner-1
+1109,1979-80,Ole Miss,SEC,30,,1070,.577,,,.284,,13.1,10.5,,,,,turneel01,elston-turner-1
+1110,1980-81,Ole Miss,SEC,29,,1068,.544,,,.340,,,,,,14.1,,turneel01,elston-turner-1
+1111,1980-81,Vanderbilt,SEC,28,,586,.452,,,.323,,,,,,29.8,,turneje01,jeff-turner-1
+1112,1981-82,Vanderbilt,SEC,27,,772,.561,,,.376,,,,,,20.9,,turneje01,jeff-turner-1
+1113,1982-83,Vanderbilt,SEC,33,,1008,.527,,,.268,,,,,,14.0,,turneje01,jeff-turner-1
+1114,1983-84,Vanderbilt,SEC,29,29,953,.574,,,.272,,,,,,13.5,,turneje01,jeff-turner-1
+1115,1980-81,Kentucky,SEC,28,0,380,.565,,,.463,,16.6,0.5,,4.6,15.3,,turpime01,melvin-turpin-1
+1116,1981-82,Kentucky,SEC,30,30,912,.602,,,.385,,15.1,,,5.3,16.0,,turpime01,melvin-turpin-1
+1117,1982-83,Kentucky,SEC,31,31,962,.632,,,.402,,,,,,14.9,,turpime01,melvin-turpin-1
+1118,1983-84,Kentucky,SEC,34,34,1071,.613,,,.249,,12.6,6.8,,3.6,12.1,,turpime01,melvin-turpin-1
+1119,1983-84,Utah,WAC,30,30,982,.566,,,.339,,,,,,16.6,,upshake01,kelvin-upshaw-1
+1120,1984-85,Utah,WAC,28,29,889,.537,,,.301,,,,,,15.8,,upshake01,kelvin-upshaw-1
+1121,1985-86,Utah,WAC,26,11,621,.545,,,.370,,,,,,15.4,,upshake01,kelvin-upshaw-1
+1122,1977-78,Kansas,Big 8,29,27,761,.537,,,.481,,5.3,26.5,,0.4,,,valenda01,darnell-valentine-1
+1123,1978-79,Kansas,Big 8,29,28,1008,.498,,,.533,,,,,,,,valenda01,darnell-valentine-1
+1124,1979-80,Kansas,Big 8,28,27,951,.557,,,.612,,,,,,,,valenda01,darnell-valentine-1
+1125,1980-81,Kansas,Big 8,32,32,1186,.551,,,.611,,,,,,16.5,,valenda01,darnell-valentine-1
+1126,1981-82,Santa Clara,WCAC,24,1,251,.483,,,.380,,,,,,14.6,,vanosni01,nick-vanos-1
+1127,1982-83,Santa Clara,WCAC,28,,509,.506,,,.458,,,,,,13.8,,vanosni01,nick-vanos-1
+1128,1983-84,Santa Clara,WCAC,32,,1034,.544,,,.440,,,,,,12.9,,vanosni01,nick-vanos-1
+1129,1984-85,Santa Clara,WCAC,29,28,1002,.541,,,.442,,,,,,15.8,,vanosni01,nick-vanos-1
+1130,1977-78,Fresno State,PCAA,20,,,.473,,,.462,,,,,,,,verhope01,pete-verhoeven-1
+1131,1978-79,Fresno State,PCAA,28,,,.587,,,.272,,,,,,,,verhope01,pete-verhoeven-1
+1132,1979-80,Fresno State,PCAA,22,,,.607,,,.308,,,,,,,,verhope01,pete-verhoeven-1
+1133,1980-81,Fresno State,PCAA,29,,878,.598,,,.342,,,,,,,,verhope01,pete-verhoeven-1
+1134,1977-78,Michigan State,Big Ten,29,,,.588,,,.360,,,,,,,,vinceja01,jay-vincent-1
+1135,1978-79,Michigan State,Big Ten,31,,939,.509,,,.271,,,,,,,,vinceja01,jay-vincent-1
+1136,1979-80,Michigan State,Big Ten,27,27,965,.552,,,.357,,,,,,,,vinceja01,jay-vincent-1
+1137,1980-81,Michigan State,Big Ten,27,27,1001,.517,,,.270,,,,,,,,vinceja01,jay-vincent-1
+1138,1981-82,Michigan State,Big Ten,28,17,965,.504,,,.323,,,,,,,,vincesa01,sam-vincent-1
+1139,1982-83,Michigan State,Big Ten,30,30,1066,.511,.455,.027,.429,,,,,,16.2,,vincesa01,sam-vincent-1
+1140,1983-84,Michigan State,Big Ten,23,23,740,.563,,,.467,,5.4,19.5,,0.3,18.6,,vincesa01,sam-vincent-1
+1141,1984-85,Michigan State,Big Ten,29,29,1093,.607,,,.462,,,,,,17.3,,vincesa01,sam-vincent-1
+1142,1977-78,Utah,WAC,29,29,851,.557,,,.426,,,,,,11.6,,vraneda01,danny-vranes-1
+1143,1978-79,Utah,WAC,28,28,867,.636,,,.507,,,,,,10.8,,vraneda01,danny-vranes-1
+1144,1979-80,Utah,WAC,24,23,760,.606,,,.614,,,,,,17.2,,vraneda01,danny-vranes-1
+1145,1980-81,Utah,WAC,30,30,977,.654,,,.678,,,,,,10.7,,vraneda01,danny-vranes-1
+1146,1981-82,Louisville,Metro,32,0,444,.489,,,.145,,,,,,22.6,,wagnemi01,milt-wagner-1
+1147,1982-83,Louisville,Metro,36,36,1111,.541,.522,.009,.197,,,,,,15.4,,wagnemi01,milt-wagner-1
+1148,1983-84,Louisville,Metro,35,35,1157,.550,,,.319,,,,,,17.5,,wagnemi01,milt-wagner-1
+1149,1984-85,Louisville,Metro,2,2,59,.440,,,.111,,,,,,24.0,,wagnemi01,milt-wagner-1
+1150,1985-86,Louisville,Metro,39,39,1312,.555,,,.358,,,,,,19.3,,wagnemi01,milt-wagner-1
+1151,1979-80,Ohio State,Big Ten,16,0,49,.545,,,.000,,,,,,35.3,,waitegr01,granville-waiters-1
+1152,1980-81,Ohio State,Big Ten,26,0,232,.521,,,.200,,,,,,14.1,,waitegr01,granville-waiters-1
+1153,1981-82,Ohio State,Big Ten,31,31,941,.578,,,.319,,,,,,13.2,,waitegr01,granville-waiters-1
+1154,1982-83,Ohio State,Big Ten,30,30,993,.559,,,.276,,,,,,13.4,,waitegr01,granville-waiters-1
+1155,1980-81,Arkansas,SWC,31,,926,.531,,,.465,,,,,,26.8,,walkeda01,darrell-walker-1
+1156,1981-82,Arkansas,SWC,29,,1039,.548,,,.509,,,,,,21.6,,walkeda01,darrell-walker-1
+1157,1982-83,Arkansas,SWC,30,,1105,.561,,,.636,,,,,,19.2,,walkeda01,darrell-walker-1
+1158,1982-83,Kentucky,SEC,31,3,599,.629,,,.535,,,,,,16.2,,walkeke01,kenny-walker-1
+1159,1983-84,Kentucky,SEC,34,33,1087,.586,,,.354,,11.5,8.0,,1.5,10.0,,walkeke01,kenny-walker-1
+1160,1984-85,Kentucky,SEC,31,31,1139,.617,,,.645,,,,,,8.6,,walkeke01,kenny-walker-1
+1161,1985-86,Kentucky,SEC,36,36,1254,.630,,,.588,,,,,,8.6,,walkeke01,kenny-walker-1
+1162,1978-79,St. Joseph's,ECC,24,,217,.441,,,.312,,,,,,,,warribr01,bryan-warrick-1
+1163,1979-80,St. Joseph's,ECC,30,,1031,.515,,,.342,,,,,,,,warribr01,bryan-warrick-1
+1164,1980-81,St. Joseph's,ECC,29,,967,.483,,,.293,,,,,,,,warribr01,bryan-warrick-1
+1165,1981-82,St. Joseph's,ECC,30,30,1057,.553,,,.362,,,,,,,,warribr01,bryan-warrick-1
+1166,1984-85,North Carolina State,ACC,7,6,181,.473,,,.388,,,,,,17.6,,washbch01,chris-washburn-1
+1167,1985-86,North Carolina State,ACC,34,34,1185,.584,,,.410,,,,,,13.8,,washbch01,chris-washburn-1
+1168,1983-84,Syracuse,Big East,32,,1107,.568,,,.400,,,,,,21.5,,washipe01,pearl-washington-1
+1169,1984-85,Syracuse,Big East,31,,1057,.563,,,.519,,,,,,24.8,,washipe01,pearl-washington-1
+1170,1985-86,Syracuse,Big East,32,,1034,.573,,,.416,,,,,,17.8,,washipe01,pearl-washington-1
+1171,1983-84,North Carolina State,ACC,33,,980,.503,,,.315,,,,,,20.9,,webbsp01,spud-webb-1
+1172,1984-85,North Carolina State,ACC,33,,919,.531,,,.388,,,,,,18.3,,webbsp01,spud-webb-1
+1173,1979-80,William & Mary,ECACS,27,,,.576,,,.614,,,,,,16.8,,weidnbr01,brant-weidner-1
+1174,1980-81,William & Mary,ECACS,27,,,.458,,,.357,,,,,,18.0,,weidnbr01,brant-weidner-1
+1175,1981-82,William & Mary,ECACS,28,,,.521,,,.302,,,,,,13.9,,weidnbr01,brant-weidner-1
+1176,1982-83,William & Mary,ECACS,29,,,.515,,,.257,,,,,,13.5,,weidnbr01,brant-weidner-1
+1177,1981-82,St. John's (NY),Big East,30,0,505,.479,,,.400,,,,,,16.5,,wennibi01,bill-wennington-1
+1178,1982-83,St. John's (NY),Big East,33,6,656,.632,,,.553,,,,,,16.8,,wennibi01,bill-wennington-1
+1179,1983-84,St. John's (NY),Big East,26,20,735,.612,,,.397,,,,,,14.8,,wennibi01,bill-wennington-1
+1180,1984-85,St. John's (NY),Big East,35,,1099,.647,,,.448,,,,,,14.4,,wennibi01,bill-wennington-1
+1181,1979-80,Old Dominion,ECACS,30,,679,.468,,,.191,,,,,,14.9,,westma01,mark-west-1
+1182,1980-81,Old Dominion,ECACS,28,,845,.538,,,.342,,,,,,12.9,,westma01,mark-west-1
+1183,1981-82,Old Dominion,ECACS,30,30,1007,.601,,,.455,,,,,,13.4,,westma01,mark-west-1
+1184,1982-83,Old Dominion,Sun Belt,29,29,1005,.558,,,.549,,,,,,16.3,,westma01,mark-west-1
+1185,1981-82,Alabama,SEC,31,,996,.541,,,.453,,,,,,24.6,,whatlen01,ennis-whatley-1
+1186,1982-83,Alabama,SEC,32,,1109,.553,,,.429,,,,,,22.0,,whatlen01,ennis-whatley-1
+1187,1977-78,South Alabama,Sun Belt,28,,538,.554,,,.289,,,,,,14.6,,whitero01,rory-white-1
+1188,1978-79,South Alabama,Sun Belt,27,,856,.570,,,.265,,,,,,,,whitero01,rory-white-1
+1189,1979-80,South Alabama,Sun Belt,2,,10,.606,,,.500,,,,,,,,whitero01,rory-white-1
+1190,1980-81,South Alabama,Sun Belt,31,,1031,.609,,,.283,,,,,,,,whitero01,rory-white-1
+1191,1981-82,South Alabama,Sun Belt,28,24,939,.587,,,.340,,,,,,13.3,,whitero01,rory-white-1
+1192,1979-80,Clemson,ACC,32,0,537,.483,,,.278,,,,,,14.1,,wiggimi01,mitchell-wiggins-1
+1193,1981-82,Florida State,Metro,22,,808,.599,,,.263,,,,,,,,wiggimi01,mitchell-wiggins-1
+1194,1982-83,Florida State,Metro,24,,873,.567,,,.359,,,,,,11.1,,wiggimi01,mitchell-wiggins-1
+1195,1979-80,Georgia,SEC,16,,508,.541,,,.144,,,,,,9.0,,wilkido01,dominique-wilkins-1
+1196,1980-81,Georgia,SEC,31,,1157,.561,,,.256,,,,,,8.3,,wilkido01,dominique-wilkins-1
+1197,1981-82,Georgia,SEC,31,27,1083,.547,,,.304,,,,,,9.2,,wilkido01,dominique-wilkins-1
+1198,1978-79,Idaho State,Big Sky,16,0,83,.361,,,.625,,,,,,,,wilkida01,dale-wilkinson-1
+1199,1979-80,Idaho State,Big Sky,25,13,430,.517,,,.474,,,,,,22.4,,wilkida01,dale-wilkinson-1
+1200,1980-81,Idaho State,Big Sky,26,26,935,.585,,,.207,,,,,,15.0,,wilkida01,dale-wilkinson-1
+1201,1981-82,Idaho State,Big Sky,26,23,684,.530,,,.273,,,,,,16.9,,wilkida01,dale-wilkinson-1
+1202,1978-79,Maryland,ACC,30,30,906,.582,,,.529,,,,,,17.3,,willibu01,buck-williams-1
+1203,1979-80,Maryland,ACC,24,23,833,.625,,,.542,,,,,,14.4,,willibu01,buck-williams-1
+1204,1980-81,Maryland,ACC,31,31,1080,.652,,,.643,,,,,,16.5,,willibu01,buck-williams-1
+1205,1978-79,San Francisco,WCAC,26,,664,.471,,,.181,,,,,,,,willigu02,guy-williams-1
+1206,1979-80,San Francisco,WCAC,29,,725,.457,,,.240,,,,,,,,willigu02,guy-williams-1
+1207,1981-82,Washington State,Pac-10,29,,900,.465,,,.209,,,,,,18.0,,willigu02,guy-williams-1
+1208,1982-83,Washington State,Pac-10,15,15,481,.591,,,.286,,,,,,11.5,,willigu02,guy-williams-1
+1209,1977-78,Ohio State,Big Ten,27,27,992,.502,,,.224,,15.3,5.2,,4.9,14.0,,willihe01,herb-williams-1
+1210,1978-79,Ohio State,Big Ten,31,31,1212,.549,,,.344,,15.1,4.2,,4.5,14.7,,willihe01,herb-williams-1
+1211,1979-80,Ohio State,Big Ten,29,27,1069,.525,,,.354,,,,,,12.1,,willihe01,herb-williams-1
+1212,1980-81,Ohio State,Big Ten,27,27,1020,.516,,,.296,,,,,,14.8,,willihe01,herb-williams-1
+1213,1981-82,Tulane,Metro,28,,932,.605,,,.477,,,,,,13.2,,williho01,hot-rod-williams-1
+1214,1982-83,Tulane,Metro,31,,996,.516,,,.372,,,,,,15.2,,williho01,hot-rod-williams-1
+1215,1983-84,Tulane,Metro,28,,1038,.615,,,.518,,,,,,14.0,,williho01,hot-rod-williams-1
+1216,1984-85,Tulane,Metro,28,,1006,.611,,,.464,,,,,,15.7,,williho01,hot-rod-williams-1
+1217,1984-85,LSU,SEC,29,,935,.565,,,.266,,,,,,17.7,,willijo02,john-williams-1
+1218,1985-86,LSU,SEC,37,,1277,.536,,,.287,,,,,,13.4,,willijo02,john-williams-1
+1219,1979-80,St. John's (NY),Big East,12,,65,.568,,,.897,,,,,,23.9,,willike01,kevin-williams-1
+1220,1980-81,St. John's (NY),Big East,27,,348,.556,,,.500,,,,,,20.9,,willike01,kevin-williams-1
+1221,1981-82,St. John's (NY),Big East,30,0,431,.584,,,.574,,,,,,23.8,,willike01,kevin-williams-1
+1222,1982-83,St. John's (NY),Big East,33,1,727,.608,,,.424,,,,,,20.0,,willike01,kevin-williams-1
+1223,1981-82,Cincinnati,Metro,26,23,753,.505,,,.381,,,,,,15.7,,willimi03,mike-williams-1
+1224,1982-83,Cincinnati,Metro,11,11,316,.553,,,.207,,,,,,10.7,,willimi03,mike-williams-1
+1225,1984-85,Bradley,MVC,30,29,879,.559,,,.492,,,,,,21.6,,willimi03,mike-williams-1
+1226,1985-86,Bradley,MVC,35,35,1065,.607,,,.503,,,,,,17.4,,willimi03,mike-williams-1
+1227,1983-84,Arizona,Pac-10,28,28,1001,.622,,,.652,,,,,,15.7,,willipe01,pete-williams-1
+1228,1984-85,Arizona,Pac-10,31,,996,.603,,,.715,,,,,,13.7,,willipe01,pete-williams-1
+1229,1979-80,Houston,SWC,28,27,903,.554,,,.362,,,,,,10.6,,williro02,rob-williams-1
+1230,1980-81,Houston,SWC,30,30,1171,.576,,,.349,,,,,,11.8,,williro02,rob-williams-1
+1231,1981-82,Houston,SWC,30,29,1055,.531,,,.383,,,,,,14.0,,williro02,rob-williams-1
+1232,1978-79,Arizona State,Pac-10,30,12,500,.516,,,.504,,,,,,28.0,,willisa02,sam-williams-2
+1233,1979-80,Arizona State,Pac-10,27,25,781,.589,,,.388,,,,,,15.5,,willisa02,sam-williams-2
+1234,1980-81,Arizona State,Pac-10,28,28,880,.569,,,.422,,,,,,17.3,,willisa02,sam-williams-2
+1235,1981-82,Michigan State,Big Ten,27,14,518,.484,,,.195,,,,,,13.4,,willike02,kevin-willis-1
+1236,1982-83,Michigan State,Big Ten,27,25,865,.590,.596,.004,.257,,,,,,15.7,,willike02,kevin-willis-1
+1237,1983-84,Michigan State,Big Ten,25,23,738,.513,,,.246,,16.6,1.9,,2.5,,,willike02,kevin-willis-1
+1238,1978-79,Marquette,Ind,29,,844,.440,,,.259,,,,,,,,wilsomi01,michael-wilson-1
+1239,1979-80,Marquette,Ind,27,25,,.481,,,.227,,,,,,,,wilsomi01,michael-wilson-1
+1240,1980-81,Marquette,Ind,31,31,,.581,,,.308,,,,,,,,wilsomi01,michael-wilson-1
+1241,1981-82,Marquette,Ind,32,32,1138,.548,,,.403,,,,,,,,wilsomi01,michael-wilson-1
+1242,1980-81,Virginia,ACC,32,6,703,.534,,,.433,,,,,,22.7,,wilsoot01,othell-wilson-1
+1243,1981-82,Virginia,ACC,32,30,920,.583,,,.337,,,,,,17.2,,wilsoot01,othell-wilson-1
+1244,1982-83,Virginia,ACC,34,34,1051,.555,,,.427,,,,,,17.7,,wilsoot01,othell-wilson-1
+1245,1983-84,Virginia,ACC,29,24,973,.524,,,.285,,,,,,18.4,,wilsoot01,othell-wilson-1
+1246,1982-83,Georgetown,Big East,32,31,855,.489,,,.370,,,,,,16.0,,wingada01,david-wingate-1
+1247,1983-84,Georgetown,Big East,37,33,1005,.481,,,.349,,,,,,14.8,,wingada01,david-wingate-1
+1248,1984-85,Georgetown,Big East,38,,1128,.516,,,.334,,,,,,17.8,,wingada01,david-wingate-1
+1249,1985-86,Georgetown,Big East,32,31,956,.544,,,.393,,,,,,12.4,,wingada01,david-wingate-1
+1250,1981-82,Bradley,MVC,34,,731,.454,,,.162,,,,,,0.0,,wintevo01,voise-winters-1
+1251,1982-83,Bradley,MVC,29,28,1025,.515,,,.182,,,,,,13.5,,wintevo01,voise-winters-1
+1252,1983-84,Bradley,MVC,27,24,919,.534,,,.273,,,,,,12.2,,wintevo01,voise-winters-1
+1253,1984-85,Bradley,MVC,30,30,1132,.557,,,.286,,,,,,9.3,,wintevo01,voise-winters-1
+1254,1978-79,Indiana,Big Ten,34,32,1258,.560,,,.279,,,,,,25.3,,wittmra01,randy-wittman-1
+1255,1979-80,Indiana,Big Ten,5,5,145,.485,,,.143,,,,,,16.7,,wittmra01,randy-wittman-1
+1256,1980-81,Indiana,Big Ten,35,32,1190,.569,,,.241,,,,,,10.9,,wittmra01,randy-wittman-1
+1257,1981-82,Indiana,Big Ten,29,26,986,.516,,,.261,,,,,,11.3,,wittmra01,randy-wittman-1
+1258,1982-83,Indiana,Big Ten,30,30,1110,.585,.552,.041,.248,,,,,,9.0,,wittmra01,randy-wittman-1
+1259,1977-78,Holy Cross,Ind,27,,,.600,,,.365,,,,,,,,wittsga01,garry-witts-1
+1260,1978-79,Holy Cross,Ind,28,28,,.571,,,.343,,,,,,,,wittsga01,garry-witts-1
+1261,1979-80,Holy Cross,ECACN,30,28,,.574,,,.309,,,,,,18.3,,wittsga01,garry-witts-1
+1262,1980-81,Holy Cross,ECACN,30,30,1010,.601,,,.484,,,,,,17.3,,wittsga01,garry-witts-1
+1263,1977-78,UNC,ACC,31,,,.618,,,.208,,,,,,,,woodal01,al-wood-1
+1264,1978-79,UNC,ACC,29,,,.604,,,.341,,,,,,,,woodal01,al-wood-1
+1265,1979-80,UNC,ACC,29,,944,.610,,,.407,,,,,,9.3,,woodal01,al-wood-1
+1266,1980-81,UNC,ACC,37,,1238,.561,,,.299,,,,,,10.8,,woodal01,al-wood-1
+1267,1977-78,Tennessee,SEC,24,,,.549,,,.409,,,,,,13.3,,woodho01,howard-wood-1
+1268,1978-79,Tennessee,SEC,33,,620,.537,,,.317,,,,,,15.6,,woodho01,howard-wood-1
+1269,1979-80,Tennessee,SEC,29,2,646,.568,,,.404,,,,,,10.0,,woodho01,howard-wood-1
+1270,1980-81,Tennessee,SEC,29,29,985,.585,,,.502,,,,,,17.4,,woodho01,howard-wood-1
+1271,1979-80,Arizona,Pac-10,24,7,221,.426,,,.234,,,,,,,,woodle01,leon-wood-1
+1272,1981-82,Cal State Fullerton,PCAA,32,32,1263,.567,,,.511,,,,,,17.1,,woodle01,leon-wood-1
+1273,1982-83,Cal State Fullerton,PCAA,29,29,1076,.567,.508,.167,.476,,,,,,19.6,,woodle01,leon-wood-1
+1274,1983-84,Cal State Fullerton,PCAA,30,30,1170,.543,,,.476,,,,,,12.0,,woodle01,leon-wood-1
+1275,1977-78,Notre Dame,Ind,24,,230,.523,,,.423,,,,,,,,woolror01,orlando-woolridge-1
+1276,1978-79,Notre Dame,Ind,30,30,752,.592,,,.221,,12.1,9.7,,1.1,18.1,,woolror01,orlando-woolridge-1
+1277,1979-80,Notre Dame,Ind,27,27,835,.615,,,.552,,,,,,,,woolror01,orlando-woolridge-1
+1278,1980-81,Notre Dame,Ind,28,28,924,.661,,,.563,,,,,,,,woolror01,orlando-woolridge-1
+1279,1979-80,UNC,ACC,14,,396,.594,,,.357,,,,,,24.2,,worthja01,james-worthy-1
+1280,1980-81,UNC,ACC,36,,1214,.525,,,.361,,,,,,18.6,,worthja01,james-worthy-1
+1281,1981-82,UNC,ACC,34,,1178,.601,,,.528,,,,,,17.5,,worthja01,james-worthy-1
+1282,1981-82,UCLA,Pac-10,10,0,33,.547,,,.333,,,,,,10.3,,wrighbr01,brad-wright-1
+1283,1982-83,UCLA,Pac-10,28,0,318,.541,,,.365,,,,,,14.7,,wrighbr01,brad-wright-1
+1284,1983-84,UCLA,Pac-10,28,0,257,.559,,,1.085,,,,,,14.4,,wrighbr01,brad-wright-1
+1285,1984-85,UCLA,Pac-10,33,33,1069,.551,,,.522,,,,,,18.3,,wrighbr01,brad-wright-1
+1286,1980-81,Wake Forest,ACC,29,0,491,.533,,,.410,,,,,,14.7,,youngda01,danny-young-1
+1287,1981-82,Wake Forest,ACC,30,30,946,.541,,,.331,,,,,,18.3,,youngda01,danny-young-1
+1288,1982-83,Wake Forest,ACC,31,31,999,.537,.500,.232,.365,,,,,,13.6,,youngda01,danny-young-1
+1289,1983-84,Wake Forest,ACC,32,32,1043,.492,,,.301,,,,,,15.9,,youngda01,danny-young-1
+1290,1980-81,Houston,SWC,30,25,1049,.503,,,.263,,,,,,9.8,,youngmi01,michael-young-1
+1291,1981-82,Houston,SWC,33,32,979,.463,,,.179,,,,,,13.2,,youngmi01,michael-young-1
+1292,1982-83,Houston,SWC,34,,1116,.524,,,.170,,,,,,8.5,,youngmi01,michael-young-1
+1293,1983-84,Houston,SWC,37,,1354,.519,,,.234,,,,,,8.5,,youngmi01,michael-young-1
+1294,1981-82,Virginia Tech,Metro,31,22,687,.492,,,.459,,,,,,19.8,,youngpe01,perry-young-1
+1295,1982-83,Virginia Tech,Metro,34,34,1214,.551,,,.411,,,,,,14.7,,youngpe01,perry-young-1
+1296,1983-84,Virginia Tech,Metro,35,,1202,.600,,,.573,,,,,,14.9,,youngpe01,perry-young-1
+1297,1984-85,Virginia Tech,Metro,29,,1020,.534,,,.439,,,,,,12.7,,youngpe01,perry-young-1
